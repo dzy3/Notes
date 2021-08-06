@@ -1,0 +1,415 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand*\HyPL@Entry[1]{}
+\emailauthor{yhuang2010@xmu.edu.cn}{Yue Huang}
+\csgdef{mark@corau5}{1}
+\citation{lecun2015deep}
+\citation{he2016deep}
+\citation{Amodei2015Deep}
+\citation{Zhang2020CollaborativeUD}
+\citation{Li2019WaveletKernelNetAI,Li2020MultireceptiveFG}
+\citation{pan2009survey}
+\citation{DBLP:journals/ml/Ben-DavidBCKPV10,ganin2016domain}
+\citation{gretton2012kernel,long2015learning,ganin2014unsupervised,ganin2016domain,SunS16Deep,SanjayVariational,tzeng2014deep,sun2016return,shao2018feature}
+\citation{DBLP:journals/ml/Ben-DavidBCKPV10}
+\citation{lee2013pseudo}
+\citation{zhang2016understanding}
+\citation{DBLP:journals/ml/Ben-DavidBCKPV10}
+\citation{zou2018domain}
+\citation{zou2019confidence}
+\citation{saito2017asymmetric}
+\citation{xie2018learning,chen2019progressive,DBLP:journals/corr/abs-1812-00893,chen2019joint}
+\HyPL@Entry{0<</S/D>>}
+\@LN@col{1}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\newlabel{sec1}{{1}{1}{Introduction}{section.1}{}}
+\@LN@col{2}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Hard class problem in existing pseudo-labeling based DA methods: Compared with class 1 and 2, class 3 has lower predictive class proportion (i.e., (the number of samples classified into a certain class)/(the number of target samples)). Meanwhile, for this class, target samples with higher confidence are mainly classified into class 1. \relax }}{1}{figure.caption.1}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig1}{{1}{1}{Hard class problem in existing pseudo-labeling based DA methods: Compared with class 1 and 2, class 3 has lower predictive class proportion (i.e., (the number of samples classified into a certain class)/(the number of target samples)). Meanwhile, for this class, target samples with higher confidence are mainly classified into class 1. \relax }{figure.caption.1}{}}
+\citation{zou2018domain,zou2019confidence,saito2017asymmetric,xie2018learning,chen2019progressive,DBLP:journals/corr/abs-1812-00893,chen2019joint}
+\citation{DBLP:journals/corr/SzegedyZSBEGF13}
+\citation{zou2018domain}
+\citation{DBLP:journals/ml/Ben-DavidBCKPV10}
+\citation{gretton2012kernel}
+\citation{sun2016return}
+\citation{kang2019contrastive}
+\citation{goodfellow2014generative}
+\citation{ganin2014unsupervised,ganin2016domain,SunS16Deep,SanjayVariational,tzeng2014deep,sun2016return,shao2018feature,chen2020harmonizing,chen2021I3NET}
+\citation{saito2017asymmetric}
+\citation{zou2018domain}
+\citation{zou2019confidence}
+\citation{xie2018learning}
+\citation{chen2019progressive}
+\citation{DBLP:journals/corr/abs-1812-00893}
+\citation{li2019locality}
+\citation{Wu2020IterativeRF}
+\citation{Chen2020DomainAB}
+\@LN@col{1}
+\@LN@col{2}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{2}{section.2}\protected@file@percent }
+\newlabel{sec3}{{2}{2}{Related Work}{section.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Unsupervised Domain Adaptation}{2}{subsection.2.1}\protected@file@percent }
+\citation{Qin2020OppositeSL,Yang2020DeepCW,Li2019SemiSupervisedDA,Kim2020AttractPA,saito2019semi}
+\citation{saito2019semi}
+\citation{saito2019semi}
+\citation{ganin2014unsupervised,long2018conditional,saito2017adversarial}
+\citation{saito2019semi}
+\citation{motiian2017unified}
+\citation{qin2020opposite}
+\citation{Yan2018SemiSupervisedOT}
+\citation{DBLP:journals/ml/Ben-DavidBCKPV10}
+\citation{DBLP:journals/ml/Ben-DavidBCKPV10}
+\@LN@col{1}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Semi-Supervised Domain Adaptation}{3}{subsection.2.2}\protected@file@percent }
+\@LN@col{2}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Hard Class Problem}{3}{section.3}\protected@file@percent }
+\newlabel{sec_hard_class}{{3}{3}{Hard Class Problem}{section.3}{}}
+\newlabel{eq:bound}{{1}{3}{}{equation.3.1}{}}
+\@LN@col{1}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces Overall workflow for HCRPL\relax }}{4}{algorithm.1}\protected@file@percent }
+\newlabel{algorithm1}{{1}{4}{Overall workflow for HCRPL\relax }{algorithm.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Methods}{4}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Preliminary}{4}{subsection.4.1}\protected@file@percent }
+\@LN@col{2}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces The overall framework of the proposed HCRPL, which is mainly composed of training, predicting, and selecting phases. The whole framework undergoes these three phases alternatively. \relax }}{4}{figure.caption.2}\protected@file@percent }
+\newlabel{fig2}{{2}{4}{The overall framework of the proposed HCRPL, which is mainly composed of training, predicting, and selecting phases. The whole framework undergoes these three phases alternatively. \relax }{figure.caption.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Adaptive Prediction Calibration}{4}{subsection.4.2}\protected@file@percent }
+\newlabel{eq1}{{3}{4}{Adaptive Prediction Calibration}{equation.4.3}{}}
+\citation{saito2017asymmetric}
+\citation{berthelot2019mixmatch,berthelot2019remixmatch}
+\citation{laine2016temporal}
+\citation{DBLP:conf/iclr/FrenchMF18,DBLP:conf/iclr/TarvainenV17}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Structure of the training pass in HCRPL. Top: APC. Middle: TE. Bottom: SE. the details of Eq.3., Eq.4., Eq.5. and Eq.7. are show in Equal \ref  {eq1}, \ref  {eq2}, \ref  {eq3} and \ref  {eq5}. \relax }}{5}{figure.caption.3}\protected@file@percent }
+\newlabel{fig3}{{3}{5}{Structure of the training pass in HCRPL. Top: APC. Middle: TE. Bottom: SE. the details of Eq.3., Eq.4., Eq.5. and Eq.7. are show in Equal \ref {eq1}, \ref {eq2}, \ref {eq3} and \ref {eq5}. \relax }{figure.caption.3}{}}
+\@LN@col{1}
+\newlabel{eq2}{{4}{5}{Adaptive Prediction Calibration}{equation.4.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Temporal-Ensembling and Self-Ensembling}{5}{subsection.4.3}\protected@file@percent }
+\newlabel{eq3}{{5}{5}{Temporal-Ensembling and Self-Ensembling}{equation.4.5}{}}
+\@LN@col{2}
+\newlabel{eq5}{{7}{5}{Temporal-Ensembling and Self-Ensembling}{equation.4.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Overall Training Process}{5}{subsection.4.4}\protected@file@percent }
+\citation{zou2018domain}
+\citation{zou2018domain}
+\citation{saenko2010adapting}
+\citation{saito2019semi}
+\citation{gong2012geodesic}
+\citation{venkateswara2017deep}
+\citation{krizhevsky2012imagenet}
+\citation{6751479}
+\citation{gong2012geodesic}
+\citation{pan2010domain}
+\citation{Ghifary2017ScatterCA}
+\citation{Jingjing2019LocalityPJ}
+\citation{Chen2020DomainAB}
+\citation{Sun2019InformativeFS}
+\citation{Rahman2020OnMD}
+\citation{Wu2020GeometricKE}
+\citation{he2016deep}
+\citation{ganin2014unsupervised}
+\citation{long2017deep}
+\citation{zou2018domain}
+\citation{zou2019confidence}
+\citation{long2018conditional}
+\citation{xu2019larger}
+\citation{zhang2019domain}
+\citation{ganin2016domain}
+\citation{tang2019discriminative}
+\citation{zhang2019bridging}
+\citation{saito2018maximum}
+\citation{li2019cycle}
+\@LN@col{1}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {2}{\ignorespaces Details of the prediction process\relax }}{6}{algorithm.2}\protected@file@percent }
+\newlabel{algorithm2}{{2}{6}{Details of the prediction process\relax }{algorithm.2}{}}
+\@LN@col{2}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Experiments}{6}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Datasets}{6}{subsection.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.1.1}ImageCLEF-DA}{6}{subsubsection.5.1.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.1.2}Office-31}{6}{subsubsection.5.1.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.1.3}Office+Caltech}{6}{subsubsection.5.1.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.1.4}Office-Home}{6}{subsubsection.5.1.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Baselines}{6}{subsection.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.2.1}Unsupervised Domain Adaptation}{6}{subsubsection.5.2.1}\protected@file@percent }
+\citation{krizhevsky2012imagenet}
+\citation{simonyan2014very}
+\citation{ganin2016domain}
+\citation{long2018conditional}
+\citation{grandvalet2005semi}
+\citation{saito2017adversarial}
+\citation{saito2019semi}
+\citation{he2016deep}
+\citation{ganin2014unsupervised}
+\citation{zou2018domain}
+\citation{long2018conditional}
+\citation{yang2020mind}
+\citation{xu2019larger}
+\citation{zhang2019domain}
+\citation{li2020maximum}
+\citation{zhang2019bridging}
+\citation{hu2020unsupervised}
+\citation{he2016deep}
+\citation{ganin2016domain}
+\citation{zou2018domain}
+\citation{saito2018maximum}
+\citation{zou2019confidence}
+\citation{xu2019larger}
+\citation{long2018conditional}
+\citation{zhang2019domain}
+\citation{zhang2019bridging}
+\citation{li2019cycle}
+\citation{tang2019discriminative}
+\citation{hu2020unsupervised}
+\citation{li2020maximum}
+\citation{6751479}
+\citation{gong2012geodesic}
+\citation{pan2010domain}
+\citation{Ghifary2017ScatterCA}
+\citation{Jingjing2019LocalityPJ}
+\citation{Sun2019InformativeFS}
+\citation{Chen2020DomainAB}
+\citation{krizhevsky2012imagenet}
+\citation{Rahman2020OnMD}
+\citation{Wu2020GeometricKE}
+\citation{saito2019semi}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Example images in ImageCLEF-DA, Office-31, Office+Caltech, and Office-Home\relax }}{7}{figure.caption.4}\protected@file@percent }
+\newlabel{fig4}{{4}{7}{Example images in ImageCLEF-DA, Office-31, Office+Caltech, and Office-Home\relax }{figure.caption.4}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces ResNet50-based approaches on Office-Home under the UDA setting (\%)\relax }}{7}{table.caption.5}\protected@file@percent }
+\newlabel{table1}{{1}{7}{ResNet50-based approaches on Office-Home under the UDA setting (\%)\relax }{table.caption.5}{}}
+\@LN@col{1}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.2.2}Semi-Supervised Domain Adaptation}{7}{subsubsection.5.2.2}\protected@file@percent }
+\@LN@col{2}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Implementation Details}{7}{subsection.5.3}\protected@file@percent }
+\citation{he2016deep}
+\citation{ganin2016domain}
+\citation{saito2018maximum}
+\citation{long2017deep}
+\citation{zou2018domain}
+\citation{long2018conditional}
+\citation{xu2019larger}
+\citation{yang2020mind}
+\citation{Donahue2014DeCAFAD}
+\citation{simonyan2014very}
+\citation{ganin2016domain}
+\citation{saito2017adversarial}
+\citation{long2018conditional}
+\citation{grandvalet2005semi}
+\citation{saito2019semi}
+\citation{zou2018domain}
+\citation{grandvalet2005semi}
+\citation{long2018conditional}
+\citation{saito2017adversarial}
+\citation{ganin2016domain}
+\citation{saito2019semi}
+\citation{zou2018domain}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces ResNet50-based approaches on Office-31 under the UDA setting (\%)\relax }}{8}{table.caption.6}\protected@file@percent }
+\newlabel{table2}{{2}{8}{ResNet50-based approaches on Office-31 under the UDA setting (\%)\relax }{table.caption.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Shallow and deep approaches on Office+Caltech under the UDA setting (\%)\relax }}{8}{table.caption.7}\protected@file@percent }
+\newlabel{tab4}{{3}{8}{Shallow and deep approaches on Office+Caltech under the UDA setting (\%)\relax }{table.caption.7}{}}
+\@LN@col{1}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Results}{8}{subsection.5.4}\protected@file@percent }
+\newlabel{5.4}{{5.4}{8}{Results}{subsection.5.4}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.4.1}Unsupervised domain adaptation}{8}{subsubsection.5.4.1}\protected@file@percent }
+\@LN@col{2}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.4.2}Semi-supervised domain adaptation}{8}{subsubsection.5.4.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Results on ImageCLEF-DA dataset under the UDA setting(\%)\relax }}{9}{table.caption.8}\protected@file@percent }
+\newlabel{table5}{{4}{9}{Results on ImageCLEF-DA dataset under the UDA setting(\%)\relax }{table.caption.8}{}}
+\newlabel{fig81}{{5(a)}{9}{Subfigure 5(a)}{subfigure.5.1}{}}
+\newlabel{sub@fig81}{{(a)}{9}{Subfigure 5(a)\relax }{subfigure.5.1}{}}
+\newlabel{fig82}{{5(b)}{9}{Subfigure 5(b)}{subfigure.5.2}{}}
+\newlabel{sub@fig82}{{(b)}{9}{Subfigure 5(b)\relax }{subfigure.5.2}{}}
+\newlabel{fig83}{{5(c)}{9}{Subfigure 5(c)}{subfigure.5.3}{}}
+\newlabel{sub@fig83}{{(c)}{9}{Subfigure 5(c)\relax }{subfigure.5.3}{}}
+\newlabel{fig84}{{5(d)}{9}{Subfigure 5(d)}{subfigure.5.4}{}}
+\newlabel{sub@fig84}{{(d)}{9}{Subfigure 5(d)\relax }{subfigure.5.4}{}}
+\newlabel{fig85}{{5(e)}{9}{Subfigure 5(e)}{subfigure.5.5}{}}
+\newlabel{sub@fig85}{{(e)}{9}{Subfigure 5(e)\relax }{subfigure.5.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces (a)-(c): T-SNE visualization of features generated by Source-only, CBST, and HCRPL (purple: source, yellow: target). The result is obtained on Office-31 A $\rightarrow $ W under the UDA setting using ResNet-50. (d)-(e): Comparison of the actual accuracy of pseudo labels and learned network accuracy during training. \relax }}{9}{figure.caption.9}\protected@file@percent }
+\newlabel{fig8}{{5}{9}{(a)-(c): T-SNE visualization of features generated by Source-only, CBST, and HCRPL (purple: source, yellow: target). The result is obtained on Office-31 A $\rightarrow $ W under the UDA setting using ResNet-50. (d)-(e): Comparison of the actual accuracy of pseudo labels and learned network accuracy during training. \relax }{figure.caption.9}{}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Source-only}}}{9}{figure.caption.9}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {CBST}}}{9}{figure.caption.9}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {HCRPL}}}{9}{figure.caption.9}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {Office-31 Amazon$\rightarrow $Webcam}}}{9}{figure.caption.9}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(e)}{\ignorespaces {Office-Home Product$\rightarrow $Clipart}}}{9}{figure.caption.9}\protected@file@percent }
+\@LN@col{1}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.4.3}Comparisons with CBST}{9}{subsubsection.5.4.3}\protected@file@percent }
+\@LN@col{2}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.5}Ablation Study}{9}{subsection.5.5}\protected@file@percent }
+\citation{maaten2008visualizing}
+\@LN@col{1}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Results on the Office-31 datasets under the SSDA setting(\%)\relax }}{10}{table.caption.10}\protected@file@percent }
+\newlabel{table11}{{5}{10}{Results on the Office-31 datasets under the SSDA setting(\%)\relax }{table.caption.10}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Ablation study under four settings. U and S denote UDA and SSDA, respectively; and R and A denote ResNet50 and AlexNet, respectively. 1 means 1-shot. w/o means without.\relax }}{10}{table.caption.11}\protected@file@percent }
+\newlabel{table4}{{6}{10}{Ablation study under four settings. U and S denote UDA and SSDA, respectively; and R and A denote ResNet50 and AlexNet, respectively. 1 means 1-shot. w/o means without.\relax }{table.caption.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.6}Analysis}{10}{subsection.5.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.6.1}The effect of different prior class proportions.}{10}{subsubsection.5.6.1}\protected@file@percent }
+\newlabel{pcp}{{5.6.1}{10}{The effect of different prior class proportions}{subsubsection.5.6.1}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.6.2}Pseudo-labeling Accuracy.}{10}{subsubsection.5.6.2}\protected@file@percent }
+\@LN@col{2}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.6.3}Exploring the hard classes.}{10}{subsubsection.5.6.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.6.4}Feature Visualization.}{10}{subsubsection.5.6.4}\protected@file@percent }
+\citation{ganin2016domain}
+\citation{saito2017adversarial}
+\citation{long2018conditional}
+\citation{grandvalet2005semi}
+\citation{saito2019semi}
+\citation{zou2018domain}
+\citation{ganin2016domain}
+\citation{saito2017adversarial}
+\citation{long2018conditional}
+\citation{grandvalet2005semi}
+\citation{saito2019semi}
+\citation{zou2018domain}
+\citation{ganin2016domain}
+\citation{saito2017adversarial}
+\citation{long2018conditional}
+\citation{grandvalet2005semi}
+\citation{saito2019semi}
+\citation{zou2018domain}
+\citation{ganin2016domain}
+\citation{saito2017adversarial}
+\citation{long2018conditional}
+\citation{grandvalet2005semi}
+\citation{saito2019semi}
+\citation{saito2019semi}
+\citation{zou2018domain}
+\newlabel{fig61}{{6(a)}{11}{Subfigure 6(a)}{subfigure.6.1}{}}
+\newlabel{sub@fig61}{{(a)}{11}{Subfigure 6(a)\relax }{subfigure.6.1}{}}
+\newlabel{fig62}{{6(b)}{11}{Subfigure 6(b)}{subfigure.6.2}{}}
+\newlabel{sub@fig62}{{(b)}{11}{Subfigure 6(b)\relax }{subfigure.6.2}{}}
+\newlabel{fig63}{{6(c)}{11}{Subfigure 6(c)}{subfigure.6.3}{}}
+\newlabel{sub@fig63}{{(c)}{11}{Subfigure 6(c)\relax }{subfigure.6.3}{}}
+\newlabel{fig64}{{6(d)}{11}{Subfigure 6(d)}{subfigure.6.4}{}}
+\newlabel{sub@fig64}{{(d)}{11}{Subfigure 6(d)\relax }{subfigure.6.4}{}}
+\newlabel{fig65}{{6(e)}{11}{Subfigure 6(e)}{subfigure.6.5}{}}
+\newlabel{sub@fig65}{{(e)}{11}{Subfigure 6(e)\relax }{subfigure.6.5}{}}
+\newlabel{fig66}{{6(f)}{11}{Subfigure 6(f)}{subfigure.6.6}{}}
+\newlabel{sub@fig66}{{(f)}{11}{Subfigure 6(f)\relax }{subfigure.6.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces (a)-(c) Confusion Matrix (CM) visualization for Source only, CBST, and HCRPL. (d)-(f): Precision, recall, and f1-score evaluated on three different models, Source-only, CBST, and HCRPL. The result is obtained on Office-31 W $\rightarrow $ A under the UDA setting using ResNet-50. To better visualize results, we arrange the categories in alphabetic order. \relax }}{11}{figure.caption.12}\protected@file@percent }
+\newlabel{fig6}{{6}{11}{(a)-(c) Confusion Matrix (CM) visualization for Source only, CBST, and HCRPL. (d)-(f): Precision, recall, and f1-score evaluated on three different models, Source-only, CBST, and HCRPL. The result is obtained on Office-31 W $\rightarrow $ A under the UDA setting using ResNet-50. To better visualize results, we arrange the categories in alphabetic order. \relax }{figure.caption.12}{}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {CM: Source only}}}{11}{figure.caption.12}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {CM: CBST}}}{11}{figure.caption.12}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {CM: HCRPL}}}{11}{figure.caption.12}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {Precision}}}{11}{figure.caption.12}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(e)}{\ignorespaces {Recall}}}{11}{figure.caption.12}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(f)}{\ignorespaces {F1-score}}}{11}{figure.caption.12}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces Comparison of different prior class proportion on Office-31 under the UDA setting (\%). S denotes the marginal class proportion of the source domain. T denotes the marginal class proportion of the target domain.\relax }}{11}{table.caption.13}\protected@file@percent }
+\newlabel{tab1}{{7}{11}{Comparison of different prior class proportion on Office-31 under the UDA setting (\%). S denotes the marginal class proportion of the source domain. T denotes the marginal class proportion of the target domain.\relax }{table.caption.13}{}}
+\@LN@col{1}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.6.5}Convergence.}{11}{subsubsection.5.6.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.6.6}Hyperparameter Sensitivity}{11}{subsubsection.5.6.6}\protected@file@percent }
+\@LN@col{2}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces Comparison of different EMA momentum $\alpha $ and sharpening temperature $T$ on A$\rightarrow $W.\relax }}{11}{table.caption.15}\protected@file@percent }
+\newlabel{tab2}{{8}{11}{Comparison of different EMA momentum $\alpha $ and sharpening temperature $T$ on A$\rightarrow $W.\relax }{table.caption.15}{}}
+\citation{cao2018partial}
+\citation{panareda2017open}
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces Results on Office-Home dataset under the SSDA setting(\%)\relax }}{12}{table.caption.16}\protected@file@percent }
+\newlabel{table12}{{9}{12}{Results on Office-Home dataset under the SSDA setting(\%)\relax }{table.caption.16}{}}
+\@LN@col{1}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Discussion and Conclusion}{12}{section.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Strength}{12}{subsection.6.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Weakness}{12}{subsection.6.2}\protected@file@percent }
+\@LN@col{2}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Conclusion}{12}{subsection.6.3}\protected@file@percent }
+\bibstyle{cas-model2-names}
+\bibdata{KBS}
+\bibcite{Amodei2015Deep}{{1}{2015}{{Amodei et~al.}}{{Amodei, Ananthanarayanan, Anubhai, Bai and Zhu}}}
+\bibcite{DBLP:journals/ml/Ben-DavidBCKPV10}{{2}{2010}{{Ben{-}David et~al.}}{{Ben{-}David, Blitzer, Crammer, Kulesza, Pereira and Vaughan}}}
+\bibcite{berthelot2019remixmatch}{{3}{2019a}{{Berthelot et~al.}}{{Berthelot, Carlini, Cubuk, Kurakin, Sohn, Zhang and Raffel}}}
+\bibcite{berthelot2019mixmatch}{{4}{2019b}{{Berthelot et~al.}}{{Berthelot, Carlini, Goodfellow, Papernot, Oliver and Raffel}}}
+\bibcite{cao2018partial}{{5}{2018}{{Cao et~al.}}{{Cao, Ma, Long and Wang}}}
+\bibcite{chen2019progressive}{{6}{2019a}{{Chen et~al.}}{{Chen, Xie, Huang, Rong, Ding, Huang, Xu and Huang}}}
+\bibcite{chen2020harmonizing}{{7}{2020a}{{Chen et~al.}}{{Chen, Zheng, Ding, Huang and Dou}}}
+\bibcite{chen2021I3NET}{{8}{2021}{{Chen et~al.}}{{Chen, Zheng, Huang, Ding and Yu}}}
+\bibcite{chen2019joint}{{9}{2019b}{{Chen et~al.}}{{Chen, Wang, Yi, Chen and Zhou}}}
+\bibcite{Chen2020DomainAB}{{10}{2020b}{{Chen et~al.}}{{Chen, Harandi, Jin and Yang}}}
+\bibcite{DBLP:journals/corr/abs-1812-00893}{{11}{2018}{{Deng et~al.}}{{Deng, Zheng and Jiao}}}
+\bibcite{Donahue2014DeCAFAD}{{12}{2014}{{Donahue et~al.}}{{Donahue, Jia, Vinyals, Hoffman, Zhang, Tzeng and Darrell}}}
+\bibcite{6751479}{{13}{2013}{{{Fernando} et~al.}}{{{Fernando}, {Habrard}, {Sebban} and {Tuytelaars}}}}
+\bibcite{DBLP:conf/iclr/FrenchMF18}{{14}{2018}{{French et~al.}}{{French, Mackiewicz and Fisher}}}
+\bibcite{ganin2014unsupervised}{{15}{2015}{{Ganin and Lempitsky}}{{}}}
+\bibcite{ganin2016domain}{{16}{2016}{{Ganin et~al.}}{{Ganin, Ustinova, Ajakan, Germain, Larochelle, Laviolette, Marchand and Lempitsky}}}
+\bibcite{Ghifary2017ScatterCA}{{17}{2017}{{Ghifary et~al.}}{{Ghifary, Balduzzi, Kleijn and Zhang}}}
+\bibcite{gong2012geodesic}{{18}{2012}{{Gong et~al.}}{{Gong, Shi, Sha and Grauman}}}
+\bibcite{goodfellow2014generative}{{19}{2014}{{Goodfellow et~al.}}{{Goodfellow, Pouget-Abadie, Mirza, Xu, Warde-Farley, Ozair, Courville and Bengio}}}
+\bibcite{grandvalet2005semi}{{20}{2005}{{Grandvalet and Bengio}}{{}}}
+\bibcite{gretton2012kernel}{{21}{2012}{{Gretton et~al.}}{{Gretton, Borgwardt, Rasch, Sch{\"{o}}lkopf and Smola}}}
+\bibcite{he2016deep}{{22}{2016}{{He et~al.}}{{He, Zhang, Ren and Sun}}}
+\bibcite{hu2020unsupervised}{{23}{2020}{{Hu et~al.}}{{Hu, Kan, Shan and Chen}}}
+\bibcite{Jingjing2019LocalityPJ}{{24}{2019}{{Jing-jing et~al.}}{{Jing-jing, Mengmeng, Ke, Lei and Tao}}}
+\bibcite{kang2019contrastive}{{25}{2019}{{Kang et~al.}}{{Kang, Jiang, Yang and Hauptmann}}}
+\@LN@col{1}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Test accuracy over iterations. The result is obtained on Office-31 A $\rightarrow $ W under the UDA setting using ResNet-50. ResNet means that we train the model without DA and only use the source domain as training data. \relax }}{13}{figure.caption.14}\protected@file@percent }
+\newlabel{fig9}{{7}{13}{Test accuracy over iterations. The result is obtained on Office-31 A $\rightarrow $ W under the UDA setting using ResNet-50. ResNet means that we train the model without DA and only use the source domain as training data. \relax }{figure.caption.14}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Acknowledgments}{13}{section.7}\protected@file@percent }
+\@LN@col{2}
+\bibcite{Kim2020AttractPA}{{26}{2020}{{Kim and Kim}}{{}}}
+\bibcite{krizhevsky2012imagenet}{{27}{2012}{{Krizhevsky et~al.}}{{Krizhevsky, Sutskever and Hinton}}}
+\bibcite{laine2016temporal}{{28}{2017}{{Laine and Aila}}{{}}}
+\bibcite{lecun2015deep}{{29}{2015}{{LeCun et~al.}}{{LeCun, Bengio and Hinton}}}
+\bibcite{lee2013pseudo}{{30}{2013}{{Lee}}{{}}}
+\bibcite{li2019cycle}{{31}{2019a}{{Li et~al.}}{{Li, Chen, Ding, Zhu, Lu and Huang}}}
+\bibcite{li2020maximum}{{32}{2020a}{{Li et~al.}}{{Li, Chen, Ding, Zhu, Lu and Shen}}}
+\bibcite{li2019locality}{{33}{2019b}{{Li et~al.}}{{Li, Jing, Lu, Zhu and Shen}}}
+\bibcite{Li2019SemiSupervisedDA}{{34}{2019}{{Li and Zhang}}{{}}}
+\bibcite{Li2019WaveletKernelNetAI}{{35}{2019c}{{Li et~al.}}{{Li, Zhao, Sun, Cheng, Chen, Yan and Gao}}}
+\bibcite{Li2020MultireceptiveFG}{{36}{2020b}{{Li et~al.}}{{Li, Zhao, Sun, Yan and Chen}}}
+\bibcite{long2015learning}{{37}{2015}{{Long et~al.}}{{Long, Cao, Wang and Jordan}}}
+\bibcite{long2018conditional}{{38}{2018}{{Long et~al.}}{{Long, Cao, Wang and Jordan}}}
+\bibcite{long2017deep}{{39}{2017}{{Long et~al.}}{{Long, Zhu, Wang and Jordan}}}
+\bibcite{maaten2008visualizing}{{40}{2008}{{Maaten and Hinton}}{{}}}
+\bibcite{motiian2017unified}{{41}{2017}{{Motiian et~al.}}{{Motiian, Piccirilli, Adjeroh and Doretto}}}
+\bibcite{pan2010domain}{{42}{2010}{{Pan et~al.}}{{Pan, Tsang, Kwok and Yang}}}
+\bibcite{pan2009survey}{{43}{2009}{{Pan and Yang}}{{}}}
+\bibcite{panareda2017open}{{44}{2017}{{Panareda~Busto and Gall}}{{}}}
+\bibcite{SanjayVariational}{{45}{2017}{{Purushotham et~al.}}{{Purushotham, Carvalho, Nilanon and Liu}}}
+\bibcite{Qin2020OppositeSL}{{46}{2020a}{{Qin et~al.}}{{Qin, Wang, Ma, Yin, Wang and Fu}}}
+\bibcite{qin2020opposite}{{47}{2020b}{{Qin et~al.}}{{Qin, Wang, Ma, Yin, Wang and Fu}}}
+\bibcite{Rahman2020OnMD}{{48}{2020}{{Rahman et~al.}}{{Rahman, Fookes, Baktash and Sridharan}}}
+\bibcite{saenko2010adapting}{{49}{2010}{{Saenko et~al.}}{{Saenko, Kulis, Fritz and Darrell}}}
+\bibcite{saito2019semi}{{50}{2019}{{Saito et~al.}}{{Saito, Kim, Sclaroff, Darrell and Saenko}}}
+\bibcite{saito2017asymmetric}{{51}{2017}{{Saito et~al.}}{{Saito, Ushiku and Harada}}}
+\bibcite{saito2017adversarial}{{52}{2018a}{{Saito et~al.}}{{Saito, Ushiku, Harada and Saenko}}}
+\bibcite{saito2018maximum}{{53}{2018b}{{Saito et~al.}}{{Saito, Watanabe, Ushiku and Harada}}}
+\bibcite{shao2018feature}{{54}{2018}{{Shao et~al.}}{{Shao, Lan and Yuen}}}
+\bibcite{simonyan2014very}{{55}{2015}{{Simonyan and Zisserman}}{{}}}
+\bibcite{sun2016return}{{56}{2016}{{Sun et~al.}}{{Sun, Feng and Saenko}}}
+\bibcite{SunS16Deep}{{57}{2016}{{Sun and Saenko}}{{}}}
+\bibcite{Sun2019InformativeFS}{{58}{2019}{{Sun et~al.}}{{Sun, Wu, Luo, Gu, Yan and Du}}}
+\bibcite{DBLP:journals/corr/SzegedyZSBEGF13}{{59}{2014}{{Szegedy et~al.}}{{Szegedy, Zaremba, Sutskever, Bruna, Erhan, Goodfellow and Fergus}}}
+\bibcite{tang2019discriminative}{{60}{2019}{{Tang and Jia}}{{}}}
+\bibcite{DBLP:conf/iclr/TarvainenV17}{{61}{2017}{{Tarvainen and Valpola}}{{}}}
+\bibcite{tzeng2014deep}{{62}{2014}{{Tzeng et~al.}}{{Tzeng, Hoffman, Zhang, Saenko and Darrell}}}
+\bibcite{venkateswara2017deep}{{63}{2017}{{Venkateswara et~al.}}{{Venkateswara, Eusebio, Chakraborty and Panchanathan}}}
+\bibcite{Wu2020IterativeRF}{{64}{2020a}{{Wu et~al.}}{{Wu, Yan, Lin, Yang, Ng and Wu}}}
+\bibcite{Wu2020GeometricKE}{{65}{2020b}{{Wu et~al.}}{{Wu, Yan, Ye, Ng and Wu}}}
+\bibcite{xie2018learning}{{66}{2018}{{Xie et~al.}}{{Xie, Zheng, Chen and Chen}}}
+\bibcite{xu2019larger}{{67}{2019}{{Xu et~al.}}{{Xu, Li, Yang and Lin}}}
+\bibcite{Yan2018SemiSupervisedOT}{{68}{2018}{{Yan et~al.}}{{Yan, Li, Wu, Min, Tan and Wu}}}
+\bibcite{yang2020mind}{{69}{2020a}{{Yang et~al.}}{{Yang, Zou, Zhou, Zeng and Xie}}}
+\@LN@col{1}
+\@LN@col{2}
+\bibcite{Yang2020DeepCW}{{70}{2020b}{{Yang et~al.}}{{Yang, Wang, Gao, Shrivastava, Weinberger, Chao and Lim}}}
+\bibcite{zhang2016understanding}{{71}{a}{{Zhang et~al.}}{{Zhang, Bengio, Hardt, Recht and Vinyals}}}
+\bibcite{zhang2019bridging}{{72}{b}{{Zhang et~al.}}{{Zhang, Liu, Long and Jordan}}}
+\bibcite{zhang2019domain}{{73}{2019}{{Zhang et~al.}}{{Zhang, Tang, Jia and Tan}}}
+\bibcite{Zhang2020CollaborativeUD}{{74}{2020}{{Zhang et~al.}}{{Zhang, Wei, Wu, Zhao, Niu, Huang and Tan}}}
+\bibcite{zou2019confidence}{{75}{2019}{{Zou et~al.}}{{Zou, Yu, Liu, Kumar and Wang}}}
+\bibcite{zou2018domain}{{76}{2018}{{Zou et~al.}}{{Zou, Yu, Vijaya~Kumar and Wang}}}
+\csxdef{lastpage}{15}
+\@LN@col{1}
+\@LN@col{2}
+\gdef \@abspage@last{15}

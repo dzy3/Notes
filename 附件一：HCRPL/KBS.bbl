@@ -1,0 +1,653 @@
+\begin{thebibliography}{76}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Amodei et~al.(2015)Amodei, Ananthanarayanan, Anubhai, Bai and
+  Zhu}]{Amodei2015Deep}
+\bibinfo{author}{Amodei, D.}, \bibinfo{author}{Ananthanarayanan, S.},
+  \bibinfo{author}{Anubhai, R.}, \bibinfo{author}{Bai, J.},
+  \bibinfo{author}{Zhu, Z.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Deep speech 2: End-to-end speech recognition in
+  english and mandarin}.
+\newblock \bibinfo{journal}{Computer Science} .
+%Type = Article
+\bibitem[{Ben{-}David et~al.(2010)Ben{-}David, Blitzer, Crammer, Kulesza,
+  Pereira and Vaughan}]{DBLP:journals/ml/Ben-DavidBCKPV10}
+\bibinfo{author}{Ben{-}David, S.}, \bibinfo{author}{Blitzer, J.},
+  \bibinfo{author}{Crammer, K.}, \bibinfo{author}{Kulesza, A.},
+  \bibinfo{author}{Pereira, F.}, \bibinfo{author}{Vaughan, J.W.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{A theory of learning from different domains}.
+\newblock \bibinfo{journal}{Machine Learning} \bibinfo{volume}{79},
+  \bibinfo{pages}{151--175}.
+%Type = Article
+\bibitem[{Berthelot et~al.(2019a)Berthelot, Carlini, Cubuk, Kurakin, Sohn,
+  Zhang and Raffel}]{berthelot2019remixmatch}
+\bibinfo{author}{Berthelot, D.}, \bibinfo{author}{Carlini, N.},
+  \bibinfo{author}{Cubuk, E.D.}, \bibinfo{author}{Kurakin, A.},
+  \bibinfo{author}{Sohn, K.}, \bibinfo{author}{Zhang, H.},
+  \bibinfo{author}{Raffel, C.}, \bibinfo{year}{2019}a.
+\newblock \bibinfo{title}{Remixmatch: Semi-supervised learning with
+  distribution alignment and augmentation anchoring}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1911.09785} .
+%Type = Inproceedings
+\bibitem[{Berthelot et~al.(2019b)Berthelot, Carlini, Goodfellow, Papernot,
+  Oliver and Raffel}]{berthelot2019mixmatch}
+\bibinfo{author}{Berthelot, D.}, \bibinfo{author}{Carlini, N.},
+  \bibinfo{author}{Goodfellow, I.}, \bibinfo{author}{Papernot, N.},
+  \bibinfo{author}{Oliver, A.}, \bibinfo{author}{Raffel, C.A.},
+  \bibinfo{year}{2019}b.
+\newblock \bibinfo{title}{Mixmatch: A holistic approach to semi-supervised
+  learning}, in: \bibinfo{booktitle}{Advances in Neural Information Processing
+  Systems}, pp. \bibinfo{pages}{5050--5060}.
+%Type = Inproceedings
+\bibitem[{Cao et~al.(2018)Cao, Ma, Long and Wang}]{cao2018partial}
+\bibinfo{author}{Cao, Z.}, \bibinfo{author}{Ma, L.}, \bibinfo{author}{Long,
+  M.}, \bibinfo{author}{Wang, J.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Partial adversarial domain adaptation}, in:
+  \bibinfo{booktitle}{Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pp. \bibinfo{pages}{135--150}.
+%Type = Inproceedings
+\bibitem[{Chen et~al.(2019a)Chen, Xie, Huang, Rong, Ding, Huang, Xu and
+  Huang}]{chen2019progressive}
+\bibinfo{author}{Chen, C.}, \bibinfo{author}{Xie, W.}, \bibinfo{author}{Huang,
+  W.}, \bibinfo{author}{Rong, Y.}, \bibinfo{author}{Ding, X.},
+  \bibinfo{author}{Huang, Y.}, \bibinfo{author}{Xu, T.},
+  \bibinfo{author}{Huang, J.}, \bibinfo{year}{2019}a.
+\newblock \bibinfo{title}{Progressive feature alignment for unsupervised domain
+  adaptation}, in: \bibinfo{booktitle}{Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition}, pp. \bibinfo{pages}{627--636}.
+%Type = Inproceedings
+\bibitem[{Chen et~al.(2020a)Chen, Zheng, Ding, Huang and
+  Dou}]{chen2020harmonizing}
+\bibinfo{author}{Chen, C.}, \bibinfo{author}{Zheng, Z.}, \bibinfo{author}{Ding,
+  X.}, \bibinfo{author}{Huang, Y.}, \bibinfo{author}{Dou, Q.},
+  \bibinfo{year}{2020}a.
+\newblock \bibinfo{title}{Harmonizing transferability and discriminability for
+  adapting object detectors}, in: \bibinfo{booktitle}{Proceedings of the
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp.
+  \bibinfo{pages}{8869--8878}.
+%Type = Inproceedings
+\bibitem[{Chen et~al.(2021)Chen, Zheng, Huang, Ding and Yu}]{chen2021I3NET}
+\bibinfo{author}{Chen, C.}, \bibinfo{author}{Zheng, Z.},
+  \bibinfo{author}{Huang, Y.}, \bibinfo{author}{Ding, X.}, \bibinfo{author}{Yu,
+  Y.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{I3net: Implicit instance-invariant network for
+  adapting one-stage object detectors}, in: \bibinfo{booktitle}{IEEE Conference
+  on Computer Vision and Pattern Recognition (CVPR)}.
+%Type = Article
+\bibitem[{Chen et~al.(2019b)Chen, Wang, Yi, Chen and Zhou}]{chen2019joint}
+\bibinfo{author}{Chen, D.D.}, \bibinfo{author}{Wang, Y.}, \bibinfo{author}{Yi,
+  J.}, \bibinfo{author}{Chen, Z.}, \bibinfo{author}{Zhou, Z.H.},
+  \bibinfo{year}{2019}b.
+\newblock \bibinfo{title}{Joint semantic domain alignment and target classifier
+  learning for unsupervised domain adaptation}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1906.04053} .
+%Type = Article
+\bibitem[{Chen et~al.(2020b)Chen, Harandi, Jin and Yang}]{Chen2020DomainAB}
+\bibinfo{author}{Chen, S.}, \bibinfo{author}{Harandi, M.},
+  \bibinfo{author}{Jin, X.}, \bibinfo{author}{Yang, X.}, \bibinfo{year}{2020}b.
+\newblock \bibinfo{title}{Domain adaptation by joint distribution invariant
+  projections}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{29}, \bibinfo{pages}{8264--8277}.
+%Type = Article
+\bibitem[{Deng et~al.(2018)Deng, Zheng and
+  Jiao}]{DBLP:journals/corr/abs-1812-00893}
+\bibinfo{author}{Deng, W.}, \bibinfo{author}{Zheng, L.}, \bibinfo{author}{Jiao,
+  J.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Domain alignment with triplets}.
+\newblock \bibinfo{journal}{CoRR} \bibinfo{volume}{abs/1812.00893}.
+%Type = Inproceedings
+\bibitem[{Donahue et~al.(2014)Donahue, Jia, Vinyals, Hoffman, Zhang, Tzeng and
+  Darrell}]{Donahue2014DeCAFAD}
+\bibinfo{author}{Donahue, J.}, \bibinfo{author}{Jia, Y.},
+  \bibinfo{author}{Vinyals, O.}, \bibinfo{author}{Hoffman, J.},
+  \bibinfo{author}{Zhang, N.}, \bibinfo{author}{Tzeng, E.},
+  \bibinfo{author}{Darrell, T.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Decaf: A deep convolutional activation feature for
+  generic visual recognition}, in: \bibinfo{booktitle}{ICML}.
+%Type = Inproceedings
+\bibitem[{{Fernando} et~al.(2013){Fernando}, {Habrard}, {Sebban} and
+  {Tuytelaars}}]{6751479}
+\bibinfo{author}{{Fernando}, B.}, \bibinfo{author}{{Habrard}, A.},
+  \bibinfo{author}{{Sebban}, M.}, \bibinfo{author}{{Tuytelaars}, T.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Unsupervised visual domain adaptation using subspace
+  alignment}, in: \bibinfo{booktitle}{2013 IEEE International Conference on
+  Computer Vision}, pp. \bibinfo{pages}{2960--2967}.
+\newblock \DOIprefix\doi{10.1109/ICCV.2013.368}.
+%Type = Inproceedings
+\bibitem[{French et~al.(2018)French, Mackiewicz and
+  Fisher}]{DBLP:conf/iclr/FrenchMF18}
+\bibinfo{author}{French, G.}, \bibinfo{author}{Mackiewicz, M.},
+  \bibinfo{author}{Fisher, M.H.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Self-ensembling for visual domain adaptation}, in:
+  \bibinfo{booktitle}{6th International Conference on Learning
+  Representations}, \bibinfo{publisher}{OpenReview.net}.
+%Type = Inproceedings
+\bibitem[{Ganin and Lempitsky(2015)}]{ganin2014unsupervised}
+\bibinfo{author}{Ganin, Y.}, \bibinfo{author}{Lempitsky, V.S.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Unsupervised domain adaptation by backpropagation},
+  in: \bibinfo{editor}{Bach, F.R.}, \bibinfo{editor}{Blei, D.M.} (Eds.),
+  \bibinfo{booktitle}{Proceedings of the 32nd International Conference on
+  Machine Learning}, \bibinfo{publisher}{JMLR.org}. pp.
+  \bibinfo{pages}{1180--1189}.
+%Type = Article
+\bibitem[{Ganin et~al.(2016)Ganin, Ustinova, Ajakan, Germain, Larochelle,
+  Laviolette, Marchand and Lempitsky}]{ganin2016domain}
+\bibinfo{author}{Ganin, Y.}, \bibinfo{author}{Ustinova, E.},
+  \bibinfo{author}{Ajakan, H.}, \bibinfo{author}{Germain, P.},
+  \bibinfo{author}{Larochelle, H.}, \bibinfo{author}{Laviolette, F.},
+  \bibinfo{author}{Marchand, M.}, \bibinfo{author}{Lempitsky, V.S.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Domain-adversarial training of neural networks}.
+\newblock \bibinfo{journal}{J. Mach. Learn. Res.} \bibinfo{volume}{17},
+  \bibinfo{pages}{59:1--59:35}.
+%Type = Article
+\bibitem[{Ghifary et~al.(2017)Ghifary, Balduzzi, Kleijn and
+  Zhang}]{Ghifary2017ScatterCA}
+\bibinfo{author}{Ghifary, M.}, \bibinfo{author}{Balduzzi, D.},
+  \bibinfo{author}{Kleijn, W.}, \bibinfo{author}{Zhang, M.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Scatter component analysis: A unified framework for
+  domain adaptation and domain generalization}.
+\newblock \bibinfo{journal}{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence} \bibinfo{volume}{39}, \bibinfo{pages}{1414--1430}.
+%Type = Inproceedings
+\bibitem[{Gong et~al.(2012)Gong, Shi, Sha and Grauman}]{gong2012geodesic}
+\bibinfo{author}{Gong, B.}, \bibinfo{author}{Shi, Y.}, \bibinfo{author}{Sha,
+  F.}, \bibinfo{author}{Grauman, K.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Geodesic flow kernel for unsupervised domain
+  adaptation}, in: \bibinfo{booktitle}{2012 IEEE conference on computer vision
+  and pattern recognition}, \bibinfo{organization}{IEEE}. pp.
+  \bibinfo{pages}{2066--2073}.
+%Type = Inproceedings
+\bibitem[{Goodfellow et~al.(2014)Goodfellow, Pouget-Abadie, Mirza, Xu,
+  Warde-Farley, Ozair, Courville and Bengio}]{goodfellow2014generative}
+\bibinfo{author}{Goodfellow, I.}, \bibinfo{author}{Pouget-Abadie, J.},
+  \bibinfo{author}{Mirza, M.}, \bibinfo{author}{Xu, B.},
+  \bibinfo{author}{Warde-Farley, D.}, \bibinfo{author}{Ozair, S.},
+  \bibinfo{author}{Courville, A.}, \bibinfo{author}{Bengio, Y.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Generative adversarial nets}, in:
+  \bibinfo{booktitle}{Advances in neural information processing systems}, pp.
+  \bibinfo{pages}{2672--2680}.
+%Type = Inproceedings
+\bibitem[{Grandvalet and Bengio(2005)}]{grandvalet2005semi}
+\bibinfo{author}{Grandvalet, Y.}, \bibinfo{author}{Bengio, Y.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Semi-supervised learning by entropy minimization},
+  in: \bibinfo{booktitle}{Advances in neural information processing systems},
+  pp. \bibinfo{pages}{529--536}.
+%Type = Article
+\bibitem[{Gretton et~al.(2012)Gretton, Borgwardt, Rasch, Sch{\"{o}}lkopf and
+  Smola}]{gretton2012kernel}
+\bibinfo{author}{Gretton, A.}, \bibinfo{author}{Borgwardt, K.M.},
+  \bibinfo{author}{Rasch, M.J.}, \bibinfo{author}{Sch{\"{o}}lkopf, B.},
+  \bibinfo{author}{Smola, A.J.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{A kernel two-sample test}.
+\newblock \bibinfo{journal}{J. Mach. Learn. Res.} \bibinfo{volume}{13},
+  \bibinfo{pages}{723--773}.
+%Type = Inproceedings
+\bibitem[{He et~al.(2016)He, Zhang, Ren and Sun}]{he2016deep}
+\bibinfo{author}{He, K.}, \bibinfo{author}{Zhang, X.}, \bibinfo{author}{Ren,
+  S.}, \bibinfo{author}{Sun, J.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Deep residual learning for image recognition}, in:
+  \bibinfo{booktitle}{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pp. \bibinfo{pages}{770--778}.
+%Type = Inproceedings
+\bibitem[{Hu et~al.(2020)Hu, Kan, Shan and Chen}]{hu2020unsupervised}
+\bibinfo{author}{Hu, L.}, \bibinfo{author}{Kan, M.}, \bibinfo{author}{Shan,
+  S.}, \bibinfo{author}{Chen, X.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Unsupervised domain adaptation with hierarchical
+  gradient synchronization}, in: \bibinfo{booktitle}{Proceedings of the
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp.
+  \bibinfo{pages}{4043--4052}.
+%Type = Article
+\bibitem[{Jing-jing et~al.(2019)Jing-jing, Mengmeng, Ke, Lei and
+  Tao}]{Jingjing2019LocalityPJ}
+\bibinfo{author}{Jing-jing, L.}, \bibinfo{author}{Mengmeng, J.},
+  \bibinfo{author}{Ke, L.}, \bibinfo{author}{Lei, Z.}, \bibinfo{author}{Tao,
+  S.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Locality preserving joint transfer for domain
+  adaptation}.
+\newblock \bibinfo{journal}{arXiv: Computer Vision and Pattern Recognition} .
+%Type = Inproceedings
+\bibitem[{Kang et~al.(2019)Kang, Jiang, Yang and
+  Hauptmann}]{kang2019contrastive}
+\bibinfo{author}{Kang, G.}, \bibinfo{author}{Jiang, L.}, \bibinfo{author}{Yang,
+  Y.}, \bibinfo{author}{Hauptmann, A.G.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Contrastive adaptation network for unsupervised
+  domain adaptation}, in: \bibinfo{booktitle}{Proceedings of the IEEE
+  Conference on Computer Vision and Pattern Recognition}, pp.
+  \bibinfo{pages}{4893--4902}.
+%Type = Inproceedings
+\bibitem[{Kim and Kim(2020)}]{Kim2020AttractPA}
+\bibinfo{author}{Kim, T.K.}, \bibinfo{author}{Kim, C.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Attract, perturb, and explore: Learning a feature
+  alignment network for semi-supervised domain adaptation}, in:
+  \bibinfo{booktitle}{ECCV}.
+%Type = Inproceedings
+\bibitem[{Krizhevsky et~al.(2012)Krizhevsky, Sutskever and
+  Hinton}]{krizhevsky2012imagenet}
+\bibinfo{author}{Krizhevsky, A.}, \bibinfo{author}{Sutskever, I.},
+  \bibinfo{author}{Hinton, G.E.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Imagenet classification with deep convolutional
+  neural networks}, in: \bibinfo{editor}{Bartlett, P.L.},
+  \bibinfo{editor}{Pereira, F.C.N.}, \bibinfo{editor}{Burges, C.J.C.},
+  \bibinfo{editor}{Bottou, L.}, \bibinfo{editor}{Weinberger, K.Q.} (Eds.),
+  \bibinfo{booktitle}{Advances in Neural Information Processing Systems}, pp.
+  \bibinfo{pages}{1106--1114}.
+%Type = Inproceedings
+\bibitem[{Laine and Aila(2017)}]{laine2016temporal}
+\bibinfo{author}{Laine, S.}, \bibinfo{author}{Aila, T.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Temporal ensembling for semi-supervised learning},
+  in: \bibinfo{booktitle}{5th International Conference on Learning
+  Representations, {ICLR}}, \bibinfo{publisher}{OpenReview.net}.
+%Type = Article
+\bibitem[{LeCun et~al.(2015)LeCun, Bengio and Hinton}]{lecun2015deep}
+\bibinfo{author}{LeCun, Y.}, \bibinfo{author}{Bengio, Y.},
+  \bibinfo{author}{Hinton, G.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Deep learning}.
+\newblock \bibinfo{journal}{nature} \bibinfo{volume}{521},
+  \bibinfo{pages}{436--444}.
+%Type = Inproceedings
+\bibitem[{Lee(2013)}]{lee2013pseudo}
+\bibinfo{author}{Lee, D.H.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Pseudo-label: The simple and efficient
+  semi-supervised learning method for deep neural networks}, in:
+  \bibinfo{booktitle}{Workshop on challenges in representation learning, ICML},
+  p.~\bibinfo{pages}{2}.
+%Type = Inproceedings
+\bibitem[{Li et~al.(2019a)Li, Chen, Ding, Zhu, Lu and Huang}]{li2019cycle}
+\bibinfo{author}{Li, J.}, \bibinfo{author}{Chen, E.}, \bibinfo{author}{Ding,
+  Z.}, \bibinfo{author}{Zhu, L.}, \bibinfo{author}{Lu, K.},
+  \bibinfo{author}{Huang, Z.}, \bibinfo{year}{2019}a.
+\newblock \bibinfo{title}{Cycle-consistent conditional adversarial transfer
+  networks}, in: \bibinfo{booktitle}{Proceedings of the 27th ACM International
+  Conference on Multimedia}, pp. \bibinfo{pages}{747--755}.
+%Type = Article
+\bibitem[{Li et~al.(2020a)Li, Chen, Ding, Zhu, Lu and Shen}]{li2020maximum}
+\bibinfo{author}{Li, J.}, \bibinfo{author}{Chen, E.}, \bibinfo{author}{Ding,
+  Z.}, \bibinfo{author}{Zhu, L.}, \bibinfo{author}{Lu, K.},
+  \bibinfo{author}{Shen, H.T.}, \bibinfo{year}{2020}a.
+\newblock \bibinfo{title}{Maximum density divergence for domain adaptation}.
+\newblock \bibinfo{journal}{IEEE transactions on pattern analysis and machine
+  intelligence} .
+%Type = Article
+\bibitem[{Li et~al.(2019b)Li, Jing, Lu, Zhu and Shen}]{li2019locality}
+\bibinfo{author}{Li, J.}, \bibinfo{author}{Jing, M.}, \bibinfo{author}{Lu, K.},
+  \bibinfo{author}{Zhu, L.}, \bibinfo{author}{Shen, H.T.},
+  \bibinfo{year}{2019}b.
+\newblock \bibinfo{title}{Locality preserving joint transfer for domain
+  adaptation}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{28}, \bibinfo{pages}{6103--6115}.
+%Type = Article
+\bibitem[{Li and Zhang(2019)}]{Li2019SemiSupervisedDA}
+\bibinfo{author}{Li, L.}, \bibinfo{author}{Zhang, Z.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Semi-supervised domain adaptation by covariance
+  matching}.
+\newblock \bibinfo{journal}{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence} \bibinfo{volume}{41}, \bibinfo{pages}{2724--2739}.
+%Type = Article
+\bibitem[{Li et~al.(2019c)Li, Zhao, Sun, Cheng, Chen, Yan and
+  Gao}]{Li2019WaveletKernelNetAI}
+\bibinfo{author}{Li, T.}, \bibinfo{author}{Zhao, Z.}, \bibinfo{author}{Sun,
+  C.}, \bibinfo{author}{Cheng, L.}, \bibinfo{author}{Chen, X.},
+  \bibinfo{author}{Yan, R.}, \bibinfo{author}{Gao, R.}, \bibinfo{year}{2019}c.
+\newblock \bibinfo{title}{Waveletkernelnet: An interpretable deep neural
+  network for industrial intelligent diagnosis}.
+\newblock \bibinfo{journal}{ArXiv} \bibinfo{volume}{abs/1911.07925}.
+%Type = Article
+\bibitem[{Li et~al.(2020b)Li, Zhao, Sun, Yan and Chen}]{Li2020MultireceptiveFG}
+\bibinfo{author}{Li, T.}, \bibinfo{author}{Zhao, Z.}, \bibinfo{author}{Sun,
+  C.}, \bibinfo{author}{Yan, R.}, \bibinfo{author}{Chen, X.},
+  \bibinfo{year}{2020}b.
+\newblock \bibinfo{title}{Multi-receptive field graph convolutional networks
+  for machine fault diagnosis}.
+\newblock \bibinfo{journal}{IEEE Transactions on Industrial Electronics} ,
+  \bibinfo{pages}{1--1}.
+%Type = Inproceedings
+\bibitem[{Long et~al.(2015)Long, Cao, Wang and Jordan}]{long2015learning}
+\bibinfo{author}{Long, M.}, \bibinfo{author}{Cao, Y.}, \bibinfo{author}{Wang,
+  J.}, \bibinfo{author}{Jordan, M.I.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Learning transferable features with deep adaptation
+  networks}, in: \bibinfo{editor}{Bach, F.R.}, \bibinfo{editor}{Blei, D.M.}
+  (Eds.), \bibinfo{booktitle}{Proceedings of the 32nd International Conference
+  on Machine Learning}, \bibinfo{publisher}{JMLR.org}. pp.
+  \bibinfo{pages}{97--105}.
+%Type = Inproceedings
+\bibitem[{Long et~al.(2018)Long, Cao, Wang and Jordan}]{long2018conditional}
+\bibinfo{author}{Long, M.}, \bibinfo{author}{Cao, Z.}, \bibinfo{author}{Wang,
+  J.}, \bibinfo{author}{Jordan, M.I.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Conditional adversarial domain adaptation}, in:
+  \bibinfo{booktitle}{Advances in Neural Information Processing Systems}, pp.
+  \bibinfo{pages}{1640--1650}.
+%Type = Inproceedings
+\bibitem[{Long et~al.(2017)Long, Zhu, Wang and Jordan}]{long2017deep}
+\bibinfo{author}{Long, M.}, \bibinfo{author}{Zhu, H.}, \bibinfo{author}{Wang,
+  J.}, \bibinfo{author}{Jordan, M.I.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Deep transfer learning with joint adaptation
+  networks}, in: \bibinfo{booktitle}{ICML}.
+%Type = Article
+\bibitem[{Maaten and Hinton(2008)}]{maaten2008visualizing}
+\bibinfo{author}{Maaten, L.v.d.}, \bibinfo{author}{Hinton, G.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{Visualizing data using t-sne}.
+\newblock \bibinfo{journal}{Journal of machine learning research}
+  \bibinfo{volume}{9}, \bibinfo{pages}{2579--2605}.
+%Type = Inproceedings
+\bibitem[{Motiian et~al.(2017)Motiian, Piccirilli, Adjeroh and
+  Doretto}]{motiian2017unified}
+\bibinfo{author}{Motiian, S.}, \bibinfo{author}{Piccirilli, M.},
+  \bibinfo{author}{Adjeroh, D.A.}, \bibinfo{author}{Doretto, G.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Unified deep supervised domain adaptation and
+  generalization}, in: \bibinfo{booktitle}{Proceedings of the IEEE
+  International Conference on Computer Vision}, pp.
+  \bibinfo{pages}{5715--5725}.
+%Type = Article
+\bibitem[{Pan et~al.(2010)Pan, Tsang, Kwok and Yang}]{pan2010domain}
+\bibinfo{author}{Pan, S.J.}, \bibinfo{author}{Tsang, I.W.},
+  \bibinfo{author}{Kwok, J.T.}, \bibinfo{author}{Yang, Q.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Domain adaptation via transfer component analysis}.
+\newblock \bibinfo{journal}{IEEE Transactions on Neural Networks}
+  \bibinfo{volume}{22}, \bibinfo{pages}{199--210}.
+%Type = Article
+\bibitem[{Pan and Yang(2009)}]{pan2009survey}
+\bibinfo{author}{Pan, S.J.}, \bibinfo{author}{Yang, Q.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{A survey on transfer learning}.
+\newblock \bibinfo{journal}{IEEE Transactions on knowledge and data
+  engineering} \bibinfo{volume}{22}, \bibinfo{pages}{1345--1359}.
+%Type = Inproceedings
+\bibitem[{Panareda~Busto and Gall(2017)}]{panareda2017open}
+\bibinfo{author}{Panareda~Busto, P.}, \bibinfo{author}{Gall, J.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Open set domain adaptation}, in:
+  \bibinfo{booktitle}{Proceedings of the IEEE International Conference on
+  Computer Vision}, pp. \bibinfo{pages}{754--763}.
+%Type = Inproceedings
+\bibitem[{Purushotham et~al.(2017)Purushotham, Carvalho, Nilanon and
+  Liu}]{SanjayVariational}
+\bibinfo{author}{Purushotham, S.}, \bibinfo{author}{Carvalho, W.},
+  \bibinfo{author}{Nilanon, T.}, \bibinfo{author}{Liu, Y.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Variational recurrent adversarial deep domain
+  adaptation}, in: \bibinfo{booktitle}{5th International Conference on Learning
+  Representations}, \bibinfo{publisher}{OpenReview.net}.
+%Type = Article
+\bibitem[{Qin et~al.(2020a)Qin, Wang, Ma, Yin, Wang and Fu}]{Qin2020OppositeSL}
+\bibinfo{author}{Qin, C.}, \bibinfo{author}{Wang, L.}, \bibinfo{author}{Ma,
+  Q.}, \bibinfo{author}{Yin, Y.}, \bibinfo{author}{Wang, H.},
+  \bibinfo{author}{Fu, Y.}, \bibinfo{year}{2020}a.
+\newblock \bibinfo{title}{Opposite structure learning for semi-supervised
+  domain adaptation}.
+\newblock \bibinfo{journal}{ArXiv} \bibinfo{volume}{abs/2002.02545}.
+%Type = Article
+\bibitem[{Qin et~al.(2020b)Qin, Wang, Ma, Yin, Wang and Fu}]{qin2020opposite}
+\bibinfo{author}{Qin, C.}, \bibinfo{author}{Wang, L.}, \bibinfo{author}{Ma,
+  Q.}, \bibinfo{author}{Yin, Y.}, \bibinfo{author}{Wang, H.},
+  \bibinfo{author}{Fu, Y.}, \bibinfo{year}{2020}b.
+\newblock \bibinfo{title}{Opposite structure learning for semi-supervised
+  domain adaptation}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2002.02545} .
+%Type = Article
+\bibitem[{Rahman et~al.(2020)Rahman, Fookes, Baktash and
+  Sridharan}]{Rahman2020OnMD}
+\bibinfo{author}{Rahman, M.}, \bibinfo{author}{Fookes, C.},
+  \bibinfo{author}{Baktash, M.}, \bibinfo{author}{Sridharan, S.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{On minimum discrepancy estimation for deep domain
+  adaptation}.
+\newblock \bibinfo{journal}{ArXiv} \bibinfo{volume}{abs/1901.00282}.
+%Type = Inproceedings
+\bibitem[{Saenko et~al.(2010)Saenko, Kulis, Fritz and
+  Darrell}]{saenko2010adapting}
+\bibinfo{author}{Saenko, K.}, \bibinfo{author}{Kulis, B.},
+  \bibinfo{author}{Fritz, M.}, \bibinfo{author}{Darrell, T.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Adapting visual category models to new domains}, in:
+  \bibinfo{booktitle}{ECCV}, \bibinfo{organization}{Springer}.
+%Type = Article
+\bibitem[{Saito et~al.(2019)Saito, Kim, Sclaroff, Darrell and
+  Saenko}]{saito2019semi}
+\bibinfo{author}{Saito, K.}, \bibinfo{author}{Kim, D.},
+  \bibinfo{author}{Sclaroff, S.}, \bibinfo{author}{Darrell, T.},
+  \bibinfo{author}{Saenko, K.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Semi-supervised domain adaptation via minimax
+  entropy}.
+\newblock \bibinfo{journal}{CoRR} \bibinfo{volume}{abs/1904.06487}.
+%Type = Inproceedings
+\bibitem[{Saito et~al.(2017)Saito, Ushiku and Harada}]{saito2017asymmetric}
+\bibinfo{author}{Saito, K.}, \bibinfo{author}{Ushiku, Y.},
+  \bibinfo{author}{Harada, T.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Asymmetric tri-training for unsupervised domain
+  adaptation}, in: \bibinfo{booktitle}{Proceedings of the 34th International
+  Conference on Machine Learning-Volume 70}, \bibinfo{organization}{JMLR. org}.
+  pp. \bibinfo{pages}{2988--2997}.
+%Type = Inproceedings
+\bibitem[{Saito et~al.(2018a)Saito, Ushiku, Harada and
+  Saenko}]{saito2017adversarial}
+\bibinfo{author}{Saito, K.}, \bibinfo{author}{Ushiku, Y.},
+  \bibinfo{author}{Harada, T.}, \bibinfo{author}{Saenko, K.},
+  \bibinfo{year}{2018}a.
+\newblock \bibinfo{title}{Adversarial dropout regularization}, in:
+  \bibinfo{booktitle}{6th International Conference on Learning
+  Representationss}, \bibinfo{publisher}{OpenReview.net}.
+%Type = Inproceedings
+\bibitem[{Saito et~al.(2018b)Saito, Watanabe, Ushiku and
+  Harada}]{saito2018maximum}
+\bibinfo{author}{Saito, K.}, \bibinfo{author}{Watanabe, K.},
+  \bibinfo{author}{Ushiku, Y.}, \bibinfo{author}{Harada, T.},
+  \bibinfo{year}{2018}b.
+\newblock \bibinfo{title}{Maximum classifier discrepancy for unsupervised
+  domain adaptation}, in: \bibinfo{booktitle}{Proceedings of the IEEE
+  Conference on Computer Vision and Pattern Recognition}, pp.
+  \bibinfo{pages}{3723--3732}.
+%Type = Inproceedings
+\bibitem[{Shao et~al.(2018)Shao, Lan and Yuen}]{shao2018feature}
+\bibinfo{author}{Shao, R.}, \bibinfo{author}{Lan, X.}, \bibinfo{author}{Yuen,
+  P.C.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Feature constrained by pixel: Hierarchical
+  adversarial deep domain adaptation}, in: \bibinfo{booktitle}{Proceedings of
+  the 26th ACM international conference on Multimedia}, pp.
+  \bibinfo{pages}{220--228}.
+%Type = Inproceedings
+\bibitem[{Simonyan and Zisserman(2015)}]{simonyan2014very}
+\bibinfo{author}{Simonyan, K.}, \bibinfo{author}{Zisserman, A.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Very deep convolutional networks for large-scale
+  image recognition}, in: \bibinfo{editor}{Bengio, Y.}, \bibinfo{editor}{LeCun,
+  Y.} (Eds.), \bibinfo{booktitle}{3rd International Conference on Learning
+  Representations}.
+%Type = Inproceedings
+\bibitem[{Sun et~al.(2016)Sun, Feng and Saenko}]{sun2016return}
+\bibinfo{author}{Sun, B.}, \bibinfo{author}{Feng, J.}, \bibinfo{author}{Saenko,
+  K.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Return of frustratingly easy domain adaptation}, in:
+  \bibinfo{booktitle}{Proceedings of the AAAI Conference on Artificial
+  Intelligence}.
+%Type = Inproceedings
+\bibitem[{Sun and Saenko(2016)}]{SunS16Deep}
+\bibinfo{author}{Sun, B.}, \bibinfo{author}{Saenko, K.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Deep {CORAL:} correlation alignment for deep domain
+  adaptation}, in: \bibinfo{editor}{Hua, G.}, \bibinfo{editor}{J{\'{e}}gou, H.}
+  (Eds.), \bibinfo{booktitle}{Computer Vision - {ECCV} 2016 Workshops}, pp.
+  \bibinfo{pages}{443--450}.
+%Type = Article
+\bibitem[{Sun et~al.(2019)Sun, Wu, Luo, Gu, Yan and Du}]{Sun2019InformativeFS}
+\bibinfo{author}{Sun, F.}, \bibinfo{author}{Wu, H.}, \bibinfo{author}{Luo, Z.},
+  \bibinfo{author}{Gu, W.}, \bibinfo{author}{Yan, Y.}, \bibinfo{author}{Du,
+  Q.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Informative feature selection for domain adaptation}.
+\newblock \bibinfo{journal}{IEEE Access} \bibinfo{volume}{7},
+  \bibinfo{pages}{142551--142563}.
+%Type = Inproceedings
+\bibitem[{Szegedy et~al.(2014)Szegedy, Zaremba, Sutskever, Bruna, Erhan,
+  Goodfellow and Fergus}]{DBLP:journals/corr/SzegedyZSBEGF13}
+\bibinfo{author}{Szegedy, C.}, \bibinfo{author}{Zaremba, W.},
+  \bibinfo{author}{Sutskever, I.}, \bibinfo{author}{Bruna, J.},
+  \bibinfo{author}{Erhan, D.}, \bibinfo{author}{Goodfellow, I.J.},
+  \bibinfo{author}{Fergus, R.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Intriguing properties of neural networks}, in:
+  \bibinfo{editor}{Bengio, Y.}, \bibinfo{editor}{LeCun, Y.} (Eds.),
+  \bibinfo{booktitle}{2nd International Conference on Learning
+  Representations}.
+%Type = Article
+\bibitem[{Tang and Jia(2019)}]{tang2019discriminative}
+\bibinfo{author}{Tang, H.}, \bibinfo{author}{Jia, K.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Discriminative adversarial domain adaptation}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1911.12036} .
+%Type = Inproceedings
+\bibitem[{Tarvainen and Valpola(2017)}]{DBLP:conf/iclr/TarvainenV17}
+\bibinfo{author}{Tarvainen, A.}, \bibinfo{author}{Valpola, H.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Mean teachers are better role models: Weight-averaged
+  consistency targets improve semi-supervised deep learning results}, in:
+  \bibinfo{booktitle}{5th International Conference on Learning
+  Representations}, \bibinfo{publisher}{OpenReview.net}.
+%Type = Article
+\bibitem[{Tzeng et~al.(2014)Tzeng, Hoffman, Zhang, Saenko and
+  Darrell}]{tzeng2014deep}
+\bibinfo{author}{Tzeng, E.}, \bibinfo{author}{Hoffman, J.},
+  \bibinfo{author}{Zhang, N.}, \bibinfo{author}{Saenko, K.},
+  \bibinfo{author}{Darrell, T.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Deep domain confusion: Maximizing for domain
+  invariance}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1412.3474} .
+%Type = Inproceedings
+\bibitem[{Venkateswara et~al.(2017)Venkateswara, Eusebio, Chakraborty and
+  Panchanathan}]{venkateswara2017deep}
+\bibinfo{author}{Venkateswara, H.}, \bibinfo{author}{Eusebio, J.},
+  \bibinfo{author}{Chakraborty, S.}, \bibinfo{author}{Panchanathan, S.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Deep hashing network for unsupervised domain
+  adaptation}, in: \bibinfo{booktitle}{Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition}, pp. \bibinfo{pages}{5018--5027}.
+%Type = Article
+\bibitem[{Wu et~al.(2020a)Wu, Yan, Lin, Yang, Ng and Wu}]{Wu2020IterativeRF}
+\bibinfo{author}{Wu, H.}, \bibinfo{author}{Yan, Y.}, \bibinfo{author}{Lin, G.},
+  \bibinfo{author}{Yang, M.}, \bibinfo{author}{Ng, M.}, \bibinfo{author}{Wu,
+  Q.}, \bibinfo{year}{2020}a.
+\newblock \bibinfo{title}{Iterative refinement for multi-source visual domain
+  adaptation}.
+\newblock \bibinfo{journal}{IEEE Transactions on Knowledge and Data
+  Engineering} , \bibinfo{pages}{1--1}.
+%Type = Article
+\bibitem[{Wu et~al.(2020b)Wu, Yan, Ye, Ng and Wu}]{Wu2020GeometricKE}
+\bibinfo{author}{Wu, H.}, \bibinfo{author}{Yan, Y.}, \bibinfo{author}{Ye, Y.},
+  \bibinfo{author}{Ng, M.}, \bibinfo{author}{Wu, Q.}, \bibinfo{year}{2020}b.
+\newblock \bibinfo{title}{Geometric knowledge embedding for unsupervised domain
+  adaptation}.
+\newblock \bibinfo{journal}{Knowl. Based Syst.} \bibinfo{volume}{191},
+  \bibinfo{pages}{105155}.
+%Type = Inproceedings
+\bibitem[{Xie et~al.(2018)Xie, Zheng, Chen and Chen}]{xie2018learning}
+\bibinfo{author}{Xie, S.}, \bibinfo{author}{Zheng, Z.}, \bibinfo{author}{Chen,
+  L.}, \bibinfo{author}{Chen, C.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Learning semantic representations for unsupervised
+  domain adaptation}, in: \bibinfo{editor}{Dy, J.G.}, \bibinfo{editor}{Krause,
+  A.} (Eds.), \bibinfo{booktitle}{Proceedings of the 35th International
+  Conference on Machine Learning}, \bibinfo{publisher}{{PMLR}}. pp.
+  \bibinfo{pages}{5419--5428}.
+%Type = Inproceedings
+\bibitem[{Xu et~al.(2019)Xu, Li, Yang and Lin}]{xu2019larger}
+\bibinfo{author}{Xu, R.}, \bibinfo{author}{Li, G.}, \bibinfo{author}{Yang, J.},
+  \bibinfo{author}{Lin, L.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Larger norm more transferable: An adaptive feature
+  norm approach for unsupervised domain adaptation}, in:
+  \bibinfo{booktitle}{Proceedings of the IEEE International Conference on
+  Computer Vision}, pp. \bibinfo{pages}{1426--1435}.
+%Type = Inproceedings
+\bibitem[{Yan et~al.(2018)Yan, Li, Wu, Min, Tan and
+  Wu}]{Yan2018SemiSupervisedOT}
+\bibinfo{author}{Yan, Y.}, \bibinfo{author}{Li, W.}, \bibinfo{author}{Wu, H.},
+  \bibinfo{author}{Min, H.}, \bibinfo{author}{Tan, M.}, \bibinfo{author}{Wu,
+  Q.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Semi-supervised optimal transport for heterogeneous
+  domain adaptation}, in: \bibinfo{booktitle}{IJCAI}.
+%Type = Inproceedings
+\bibitem[{Yang et~al.(2020a)Yang, Zou, Zhou, Zeng and Xie}]{yang2020mind}
+\bibinfo{author}{Yang, J.}, \bibinfo{author}{Zou, H.}, \bibinfo{author}{Zhou,
+  Y.}, \bibinfo{author}{Zeng, Z.}, \bibinfo{author}{Xie, L.},
+  \bibinfo{year}{2020}a.
+\newblock \bibinfo{title}{Mind the discriminability: Asymmetric adversarial
+  domain adaptation}, in: \bibinfo{booktitle}{European Conference on Computer
+  Vision}, \bibinfo{organization}{Springer}. pp. \bibinfo{pages}{589--606}.
+%Type = Article
+\bibitem[{Yang et~al.(2020b)Yang, Wang, Gao, Shrivastava, Weinberger, Chao and
+  Lim}]{Yang2020DeepCW}
+\bibinfo{author}{Yang, L.}, \bibinfo{author}{Wang, Y.}, \bibinfo{author}{Gao,
+  M.}, \bibinfo{author}{Shrivastava, A.}, \bibinfo{author}{Weinberger, K.Q.},
+  \bibinfo{author}{Chao, W.L.}, \bibinfo{author}{Lim, S.N.},
+  \bibinfo{year}{2020}b.
+\newblock \bibinfo{title}{Deep co-training with task decomposition for
+  semi-supervised domain adaptation.}
+\newblock \bibinfo{journal}{arXiv: Computer Vision and Pattern Recognition} .
+%Type = Inproceedings
+\bibitem[{Zhang et~al.(a)Zhang, Bengio, Hardt, Recht and
+  Vinyals}]{zhang2016understanding}
+\bibinfo{author}{Zhang, C.}, \bibinfo{author}{Bengio, S.},
+  \bibinfo{author}{Hardt, M.}, \bibinfo{author}{Recht, B.},
+  \bibinfo{author}{Vinyals, O.}, a.
+\newblock \bibinfo{title}{Understanding deep learning requires rethinking
+  generalization}, in: \bibinfo{booktitle}{5th International Conference on
+  Learning Representations}.
+%Type = Inproceedings
+\bibitem[{Zhang et~al.(b)Zhang, Liu, Long and Jordan}]{zhang2019bridging}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Liu, T.}, \bibinfo{author}{Long,
+  M.}, \bibinfo{author}{Jordan, M.I.}, b.
+\newblock \bibinfo{title}{Bridging theory and algorithm for domain adaptation},
+  in: \bibinfo{editor}{Chaudhuri, K.}, \bibinfo{editor}{Salakhutdinov, R.}
+  (Eds.), \bibinfo{booktitle}{Proceedings of the 36th International Conference
+  on Machine Learning}.
+%Type = Inproceedings
+\bibitem[{Zhang et~al.(2019)Zhang, Tang, Jia and Tan}]{zhang2019domain}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Tang, H.}, \bibinfo{author}{Jia,
+  K.}, \bibinfo{author}{Tan, M.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Domain-symmetric networks for adversarial domain
+  adaptation}, in: \bibinfo{booktitle}{Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition}, pp. \bibinfo{pages}{5031--5040}.
+%Type = Article
+\bibitem[{Zhang et~al.(2020)Zhang, Wei, Wu, Zhao, Niu, Huang and
+  Tan}]{Zhang2020CollaborativeUD}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Wei, Y.}, \bibinfo{author}{Wu,
+  Q.}, \bibinfo{author}{Zhao, P.}, \bibinfo{author}{Niu, S.},
+  \bibinfo{author}{Huang, J.}, \bibinfo{author}{Tan, M.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Collaborative unsupervised domain adaptation for
+  medical image diagnosis}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{29}, \bibinfo{pages}{7834--7844}.
+%Type = Inproceedings
+\bibitem[{Zou et~al.(2019)Zou, Yu, Liu, Kumar and Wang}]{zou2019confidence}
+\bibinfo{author}{Zou, Y.}, \bibinfo{author}{Yu, Z.}, \bibinfo{author}{Liu, X.},
+  \bibinfo{author}{Kumar, B.}, \bibinfo{author}{Wang, J.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Confidence regularized self-training}, in:
+  \bibinfo{booktitle}{Proceedings of the IEEE International Conference on
+  Computer Vision}, pp. \bibinfo{pages}{5982--5991}.
+%Type = Inproceedings
+\bibitem[{Zou et~al.(2018)Zou, Yu, Vijaya~Kumar and Wang}]{zou2018domain}
+\bibinfo{author}{Zou, Y.}, \bibinfo{author}{Yu, Z.},
+  \bibinfo{author}{Vijaya~Kumar, B.}, \bibinfo{author}{Wang, J.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Unsupervised domain adaptation for semantic
+  segmentation via class-balanced self-training}, in:
+  \bibinfo{booktitle}{Proceedings of the European conference on computer vision
+  (ECCV)}, pp. \bibinfo{pages}{289--305}.
+
+\end{thebibliography}

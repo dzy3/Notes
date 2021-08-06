@@ -1,0 +1,277 @@
+@article{ref1,
+  title={A 3D Spatially Weighted Network for Segmentation of Brain Tissue From {MRI}},
+  author={Sun, Liyan and Ma, Wenao and Ding, Xinghao and Huang, Yue and Liang, Dong and Paisley, John},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={39},
+  number={4},
+  pages={898--909},
+  year={2019},
+  publisher={IEEE}
+}
+
+@article{ref2,
+  title={Modified U-Net {(mU-Net)} with incorporation of object-dependent high level features for improved liver and liver-tumor segmentation in {CT} images},
+  author={Seo, Hyunseok and Huang, Charles and Bassenne, Maxime and Xiao, Ruoxiu and Xing, Lei},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={39},
+  number={5},
+  pages={1316--1325},
+  year={2019},
+  publisher={IEEE}
+}
+
+@article{ref3,
+  title={{H-DenseUNet}: hybrid densely connected {UNet} for liver and tumor segmentation from {CT} volumes},
+  author={Li, Xiaomeng and Chen, Hao and Qi, Xiaojuan and Dou, Qi and Fu, Chi-Wing and Heng, Pheng-Ann},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={37},
+  number={12},
+  pages={2663--2674},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{ref4,
+  title={Automatic multi-organ segmentation on abdominal {CT} with dense {V-networks}},
+  author={Gibson, Eli and Giganti, Francesco and Hu, Yipeng and Bonmati, Ester and Bandula, Steve and Gurusamy, Kurinchi and Davidson, Brian and Pereira, Stephen P and Clarkson, Matthew J and Barratt, Dean C},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={37},
+  number={8},
+  pages={1822--1834},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{ref5,
+  title={{3D} deeply supervised network for automated segmentation of volumetric medical images},
+  author={Dou, Qi and Yu, Lequan and Chen, Hao and Jin, Yueming and Yang, Xin and Qin, Jing and Heng, Pheng-Ann},
+  journal={Medical Image Analysis},
+  volume={41},
+  pages={40--54},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{ref6,
+  title={Deep learning with mixed supervision for brain tumor segmentation},
+  author={Mlynarski, Pawel and Delingette, Herv{\'e} and Criminisi, Antonio and Ayache, Nicholas},
+  journal={Journal of Medical Imaging},
+  volume={6},
+  number={3},
+  pages={034002},
+  year={2019},
+  publisher={International Society for Optics and Photonics}
+}
+
+@article{ref7,
+  title={Annotation-cost minimization for medical image segmentation using suggestive mixed supervision fully convolutional networks},
+  author={Bhalgat, Yash and Shah, Meet and Awate, Suyash},
+  journal={arXiv preprint arXiv:1812.11302},
+  year={2018}
+}
+
+@inproceedings{ref8,
+  title={{MS-Net}: mixed-supervision fully-convolutional networks for full-resolution segmentation},
+  author={Shah, Meet P and Merchant, SN and Awate, Suyash P},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={379--387},
+  year={2018},
+  organization={Springer}
+}
+
+@inproceedings{ref9,
+  title={Mixed-Supervised Dual-Network for Medical Image Segmentation},
+  author={Wang, Duo and Li, Ming and Ben-Shlomo, Nir and Corrales, C Eduardo and Cheng, Yu and Zhang, Tao and Jayender, Jagadeesan},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={192--200},
+  year={2019},
+  organization={Springer}
+}
+
+@inproceedings{ref10,
+  title={Boxsup: Exploiting bounding boxes to supervise convolutional networks for semantic segmentation},
+  author={Dai, Jifeng and He, Kaiming and Sun, Jian},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1635--1643},
+  year={2015}
+}
+
+@inproceedings{ref11,
+  title={Weakly-and semi-supervised learning of a deep convolutional network for semantic image segmentation},
+  author={Papandreou, George and Chen, Liang-Chieh and Murphy, Kevin P and Yuille, Alan L},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1742--1750},
+  year={2015}
+}
+
+@inproceedings{ref12,
+  title={Simple does it: Weakly supervised instance and semantic segmentation},
+  author={Khoreva, Anna and Benenson, Rodrigo and Hosang, Jan and Hein, Matthias and Schiele, Bernt},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={876--885},
+  year={2017}
+}
+
+@inproceedings{ref13,
+  title={Semi-Supervised Semantic Image Segmentation with Self-correcting Networks},
+  author={Ibrahim, Mostafa S and Vahdat, Arash and Ranjbar, Mani and Macready, William G},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={12715--12725},
+  year={2020}
+}
+
+@inproceedings{ref14,
+  title={U-net: Convolutional networks for biomedical image segmentation},
+  author={Ronneberger, Olaf and Fischer, Philipp and Brox, Thomas},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={234--241},
+  year={2015},
+  organization={Springer}
+}
+
+@inproceedings{ref15,
+  title={{3D} {U-Net}: learning dense volumetric segmentation from sparse annotation},
+  author={{\c{C}}i{\c{c}}ek, {\"O}zg{\"u}n and Abdulkadir, Ahmed and Lienkamp, Soeren S and Brox, Thomas and Ronneberger, Olaf},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={424--432},
+  year={2016},
+  organization={Springer}
+}
+
+@article{ref16,
+  title={Pelvic organ segmentation using distinctive curve guided fully convolutional networks},
+  author={He, Kelei and Cao, Xiaohuan and Shi, Yinghuan and Nie, Dong and Gao, Yang and Shen, Dinggang},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={38},
+  number={2},
+  pages={585--595},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{ref17,
+  title={{HyperDense-Net}: a hyper-densely connected {CNN} for multi-modal image segmentation},
+  author={Dolz, Jose and Gopinath, Karthik and Yuan, Jing and Lombaert, Herve and Desrosiers, Christian and Ayed, Ismail Ben},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={38},
+  number={5},
+  pages={1116--1126},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{ref18,
+  title={Deeporgan: Multi-level deep convolutional networks for automated pancreas segmentation},
+  author={Roth, Holger R and Lu, Le and Farag, Amal and Shin, Hoo-Chang and Liu, Jiamin and Turkbey, Evrim B and Summers, Ronald M},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={556--564},
+  year={2015},
+  organization={Springer}
+}
+
+@article{ref19,
+  title={Deep Q learning driven {CT} pancreas segmentation with geometry-aware {U-net}},
+  author={Man, Yunze and Huang, Yangsibo and Feng, Junyi and Li, Xi and Wu, Fei},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={38},
+  number={8},
+  pages={1971--1980},
+  year={2019},
+  publisher={IEEE}
+}
+
+@article{ref20,
+  title={Automated muscle segmentation from clinical {CT} using Bayesian {U-net} for personalized musculoskeletal modeling},
+  author={Hiasa, Yuta and Otake, Yoshito and Takao, Masaki and Ogawa, Takeshi and Sugano, Nobuhiko and Sato, Yoshinobu},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={39},
+  number={4},
+  pages={1030--1040},
+  year={2019},
+  publisher={IEEE}
+}
+
+@inproceedings{ref21,
+  title={{Boxsup}: Exploiting bounding boxes to supervise convolutional networks for semantic segmentation},
+  author={Dai, Jifeng and He, Kaiming and Sun, Jian},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1635--1643},
+  year={2015}
+}
+
+@inproceedings{ref22,
+  title={Weakly-and semi-supervised learning of a deep convolutional network for semantic image segmentation},
+  author={Papandreou, George and Chen, Liang-Chieh and Murphy, Kevin P and Yuille, Alan L},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1742--1750},
+  year={2015}
+}
+
+@article{ref23,
+  title={``GrabCut" interactive foreground extraction using iterated graph cuts},
+  author={Rother, Carsten and Kolmogorov, Vladimir and Blake, Andrew},
+  journal={ACM Transactions on Graphics},
+  volume={23},
+  number={3},
+  pages={309--314},
+  year={2004},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{ref24,
+  title={{Simple} does it: Weakly supervised instance and semantic segmentation},
+  author={Khoreva, Anna and Benenson, Rodrigo and Hosang, Jan and Hein, Matthias and Schiele, Bernt},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={876--885},
+  year={2017}
+}
+
+@inproceedings{ref25,
+  title={Box-driven class-wise region masking and filling rate guided loss for weakly supervised semantic segmentation},
+  author={Song, Chunfeng and Huang, Yan and Ouyang, Wanli and Wang, Liang},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={3136--3145},
+  year={2019}
+}
+
+@inproceedings{ref26,
+  title={Visualizing and understanding convolutional networks},
+  author={Zeiler, Matthew D and Fergus, Rob},
+  booktitle={European conference on computer vision},
+  pages={818--833},
+  year={2014},
+  organization={Springer}
+}
+
+@article{ref27,
+  title={Distilling the knowledge in a neural network},
+  author={Hinton, Geoffrey and Vinyals, Oriol and Dean, Jeff},
+  journal={arXiv preprint arXiv:1503.02531},
+  year={2015}
+}
+
+@inproceedings{ref28,
+  title={{V-net}: Fully convolutional neural networks for volumetric medical image segmentation},
+  author={Milletari, Fausto and Navab, Nassir and Ahmadi, Seyed-Ahmad},
+  booktitle={2016 fourth International Conference on 3D Vision},
+  pages={565--571},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{ref29,
+  title={nnu-net: Breaking the spell on successful medical image segmentation},
+  author={Isensee, Fabian and Petersen, Jens and Kohl, Simon AA and J{\"a}ger, Paul F and Maier-Hein, Klaus H},
+  journal={arXiv preprint arXiv:1904.08128},
+  volume={1},
+  pages={1--8},
+  year={2019}
+}
+
+@inproceedings{ref30,
+  title={Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network},
+  author={Shi, Wenzhe and Caballero, Jose and Husz{\'a}r, Ferenc and Totz, Johannes and Aitken, Andrew P and Bishop, Rob and Rueckert, Daniel and Wang, Zehan},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1874--1883},
+  year={2016}
+}

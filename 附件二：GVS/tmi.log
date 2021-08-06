@@ -1,0 +1,1136 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.15)  13 MAY 2021 22:45
+entering extended mode
+**./tmi.tex
+(tmi.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03> (ieeecolor.cls
+
+LaTeX Warning: You have requested document class `ieeecolor',
+               but the document class provides `IEEEtran'.
+
+Document Class: IEEEtran 2002/11/18 revision V1.6b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- The source comments contain changelog notes.
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\@draftversionrule=\dimen138
+\@IEEEtrantmpdimenA=\dimen139
+\@IEEEtrantmpdimenB=\dimen140
+\@IEEEtrantmpcountA=\count177
+\@IEEEtrantmpcountB=\count178
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
+34.
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\@IEEEnormalsizefontbaselineskip=\skip47
+
+-- This is a 10 point document.
+\normalsizebaselineskip=\skip48
+\normaljot=\skip49
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1180.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1180.
+
+\IEEEilabelindentA=\dimen141
+\IEEEilabelindentB=\dimen142
+\IEEEilabelindent=\dimen143
+\IEEEelabelindent=\dimen144
+\IEEEdlabelindent=\dimen145
+\labelindent=\dimen146
+\IEEEiednormlabelsep=\dimen147
+\IEEEiedmathlabelsep=\dimen148
+\IEEEiedtopsep=\skip50
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@IEEEsubequation=\count183
+\abovecaptionskip=\skip51
+\belowcaptionskip=\skip52
+\figbox=\box47
+\c@figure=\count184
+\c@query=\count185
+\c@qry=\count186
+\c@nquery=\count187
+\c@tquery=\count188
+\c@equery=\count189
+\c@eqry=\count190
+\c@edquery=\count191
+\c@etquery=\count192
+\c@table=\count193
+\@IEEEeqnnumcols=\count194
+\@IEEEeqncolcnt=\count195
+\firstpagerule=\skip53
+\logowidth=\skip54
+\@IEEEtmpitemindent=\dimen149
+\c@biography=\count196
+\c@edbiography=\count197
+LaTeX Info: Redefining \sf on input line 4872.
+\@IEEEtranrubishbin=\box48
+) (tmi.sty) (C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen150
+))
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count269
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks17
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks18
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks19
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.st
+y
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+\c@ALC@unique=\count276
+\c@ALC@line=\count277
+\c@ALC@rem=\count278
+\c@ALC@depth=\count279
+\ALC@tlm=\skip58
+\algorithmicindent=\skip59
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+) (C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefineke
+ys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.s
+ty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+ (C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-bas
+e.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+))
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count280
+\multirow@dima=\skip61
+\bigstrutjot=\dimen161
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen162
+\captionmargin@=\dimen163
+\captionwidth=\dimen164
+\caption@tempdima=\dimen165
+\caption@indent=\dimen166
+\caption@parindent=\dimen167
+\caption@hangindent=\dimen168
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\fontencoding {T1} \fon
+tfamily {phv} \fontseries {m} \fontshape {n} \fontsize {8}{10} \selectfont \scs
+hape \ifx \@captype \@IEEEtablestring \@IEEEtablecaptionsabspace \begin {center
+} \if@myimage \ifdim \width > 255pt {\strut #1\color {black}}\\ {\footnotesize 
+\scshape \if \boldmath #2\color {black}\null \else \strut \stupiddouble {\boldm
+ath #2\color {black}\normalcolor }\fi } \else {\strut #1\color {black}}\\ {\foo
+tnotesize \scshape \if \boldmath #2\color {black}\null \else \strut \stupidsing
+le {\boldmath #2\color {black}\normalcolor }\fi } \fi \else \ifdim \width > 255
+pt {\strut #1}\\ {\footnotesize \scshape \if \boldmath #2\null \else \strut \st
+upiddouble {\boldmath #2\color {black}}\fi } \else {\strut #1}\\ {\if \boldmath
+ #2\null \else \strut \stupidsingle {\boldmath #2\color {black}}\fi } \fi \fi \
+end {center}\@IEEEtablecaptionsbespace \else \@IEEEfigurecaptionsepspace \setbo
+x \@tempboxa \hbox {\footnotesize #1.\color {black}\normalcolor ~~\sf \boldmath
+ #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\footnotesize #1.\c
+olor {black}\normalcolor ~~ }\parbox [t]{\hsize }{\footnotesize \noindent \unhb
+ox \@tempboxa \sf \boldmath #2}\else \ifcenterfigcaptions \hbox to\hsize {\foot
+notesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\footnotesize \box 
+\@tempboxa \hfil }\fi \fi \fi \color {black} on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count281
+\c@continuedfloat=\count282
+) (C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip62
+\subfigcapskip=\skip63
+\subfigcaptopadj=\dimen169
+\subfigbottomskip=\skip64
+\subfigcapmargin=\dimen170
+\subfiglabelskip=\skip65
+\c@subfigure=\count283
+\c@lofdepth=\count284
+\c@subtable=\count285
+\c@lotdepth=\count286
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip66
+\subfig@bottom=\skip67
+) (C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen171
+\lightrulewidth=\dimen172
+\cmidrulewidth=\dimen173
+\belowrulesep=\dimen174
+\belowbottomsep=\dimen175
+\aboverulesep=\dimen176
+\abovetopsep=\dimen177
+\cmidrulesep=\dimen178
+\cmidrulekern=\dimen179
+\defaultaddspace=\dimen180
+\@cmidla=\count287
+\@cmidlb=\count288
+\@aboverulesep=\dimen181
+\@belowrulesep=\dimen182
+\@thisruleclass=\count289
+\@lastruleclass=\count290
+\@thisrulewidth=\dimen183
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip68
+\enit@outerparindent=\dimen184
+\enit@toks=\toks22
+\enit@inbox=\box51
+\enit@count@id=\count291
+\enitdp@description=\count292
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen185
+\ar@mcellbox=\box52
+\extrarowheight=\dimen186
+\NC@list=\toks23
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box53
+)
+\everycr=\toks24
+\minrowclearance=\skip71
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count293
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen187
+\TX@old@table=\dimen188
+\TX@old@col=\dimen189
+\TX@target=\dimen190
+\TX@delta=\dimen191
+\TX@cols=\count294
+\TX@ftn=\toks25
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip72
+\RaggedLeftLeftskip=\skip73
+\RaggedRightLeftskip=\skip74
+\CenteringRightskip=\skip75
+\RaggedLeftRightskip=\skip76
+\RaggedRightRightskip=\skip77
+\CenteringParfillskip=\skip78
+\RaggedLeftParfillskip=\skip79
+\RaggedRightParfillskip=\skip80
+\JustifyingParfillskip=\skip81
+\CenteringParindent=\skip82
+\RaggedLeftParindent=\skip83
+\RaggedRightParindent=\skip84
+\JustifyingParindent=\skip85
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count295
+\float@exts=\toks26
+\float@box=\box54
+\@float@everytoks=\toks27
+\@floatcapt=\box55
+)
+\@float@every@algorithm=\toks28
+\c@algorithm=\count296
+)
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfte
+x.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count297
+\l__pdf_internal_box=\box56
+) (tmi.aux)
+\openout1 = `tmi.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count298
+\scratchdimen=\dimen192
+\scratchbox=\box57
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen193
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks30
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 25.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 4
+1.
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <11> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+
+
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+Package xcolor Warning: Incompatible color definition on input line 43.
+
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <9> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 43.
+
+Underfull \hbox (badness 1990) in paragraph at lines 43--45
+[]\OT1/phv/b/sl/9 Abstract\OT1/phv/b/n/9 ---[]Synthesizing a subject-specific p
+athology-
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 47.
+
+
+Package xcolor Warning: Incompatible color definition on input line 51.
+
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 51
+.
+(C:\Users\xxx\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+<./figs/340_original.jpg, id=1, 240.9pt x 240.9pt>
+File: ./figs/340_original.jpg Graphic file (type jpg)
+<use ./figs/340_original.jpg>
+Package pdftex.def Info: ./figs/340_original.jpg  used on input line 57.
+(pdftex.def)             Requested size: 60.48138pt x 60.47847pt.
+<./figs/340_seg_grad_cam.jpg, id=2, 240.9pt x 240.9pt>
+File: ./figs/340_seg_grad_cam.jpg Graphic file (type jpg)
+<use ./figs/340_seg_grad_cam.jpg>
+Package pdftex.def Info: ./figs/340_seg_grad_cam.jpg  used on input line 58.
+(pdftex.def)             Requested size: 60.48138pt x 60.47847pt.
+<./figs/340_grad_cam.jpg, id=3, 240.9pt x 240.9pt>
+File: ./figs/340_grad_cam.jpg Graphic file (type jpg)
+<use ./figs/340_grad_cam.jpg>
+Package pdftex.def Info: ./figs/340_grad_cam.jpg  used on input line 59.
+(pdftex.def)             Requested size: 60.48138pt x 60.47847pt.
+<./figs/340_label.jpg, id=4, 240.9pt x 240.9pt>
+File: ./figs/340_label.jpg Graphic file (type jpg)
+<use ./figs/340_label.jpg>
+Package pdftex.def Info: ./figs/340_label.jpg  used on input line 60.
+(pdftex.def)             Requested size: 60.48138pt x 60.47847pt.
+<./figs/100_original.jpg, id=5, 240.9pt x 240.9pt>
+File: ./figs/100_original.jpg Graphic file (type jpg)
+<use ./figs/100_original.jpg>
+Package pdftex.def Info: ./figs/100_original.jpg  used on input line 61.
+(pdftex.def)             Requested size: 60.48138pt x 60.47847pt.
+<./figs/100_seg_grad_cam.jpg, id=6, 240.9pt x 240.9pt>
+File: ./figs/100_seg_grad_cam.jpg Graphic file (type jpg)
+<use ./figs/100_seg_grad_cam.jpg>
+Package pdftex.def Info: ./figs/100_seg_grad_cam.jpg  used on input line 62.
+(pdftex.def)             Requested size: 60.48138pt x 60.47847pt.
+<./figs/100_grad_cam.jpg, id=7, 240.9pt x 240.9pt>
+File: ./figs/100_grad_cam.jpg Graphic file (type jpg)
+<use ./figs/100_grad_cam.jpg>
+Package pdftex.def Info: ./figs/100_grad_cam.jpg  used on input line 63.
+(pdftex.def)             Requested size: 60.48138pt x 60.47847pt.
+<./figs/100_label.jpg, id=8, 240.9pt x 240.9pt>
+File: ./figs/100_label.jpg Graphic file (type jpg)
+<use ./figs/100_label.jpg>
+Package pdftex.def Info: ./figs/100_label.jpg  used on input line 64.
+(pdftex.def)             Requested size: 60.48138pt x 60.47847pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 66.
+
+
+Package xcolor Warning: Incompatible color definition on input line 66.
+
+
+Package xcolor Warning: Incompatible color definition on input line 66.
+
+
+Package xcolor Warning: Incompatible color definition on input line 66.
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 69--70
+[]\OT1/ptm/m/n/10 Pseudo-healthy syn-the-sis is de-fined as syn-the-siz-ing a
+ []
+
+Package epstopdf Info: Source file: <LOGO-tmi-web.eps>
+(epstopdf)                    date: 2017-08-05 05:16:10
+(epstopdf)                    size: 250611 bytes
+(epstopdf)             Output file: <LOGO-tmi-web-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-09-05 18:59:50
+(epstopdf)                    size: 16065 bytes
+(epstopdf)             Command: <epstopdf --outfile=LOGO-tmi-web-eps-converted-
+to.pdf LOGO-tmi-web.eps>
+(epstopdf)             \includegraphics on input line 72.
+Package epstopdf Info: Output file is already uptodate.
+<LOGO-tmi-web-eps-converted-to.pdf, id=9, 413.545pt x 57.21375pt>
+File: LOGO-tmi-web-eps-converted-to.pdf Graphic file (type pdf)
+<use LOGO-tmi-web-eps-converted-to.pdf>
+Package pdftex.def Info: LOGO-tmi-web-eps-converted-to.pdf  used on input line 
+72.
+(pdftex.def)             Requested size: 198.0pt x 27.39331pt.
+
+Package xcolor Warning: Incompatible color definition on input line 72.
+
+
+Overfull \hbox (109.0pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Overfull \hbox (162.0pt too wide) has occurred while \output is active
+[] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+
+Overfull \vbox (23.39331pt too high) has occurred while \output is active []
+
+
+[1{C:/Users/xxx/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+ <./LOGO-tmi-web-eps-converted-to.pdf> <./figs/340_original.jpg> <./figs/340_se
+g_grad_cam.jpg> <./figs/340_grad_cam.jpg> <./figs/340_label.jpg> <./figs/100_or
+iginal.jpg> <./figs/100_seg_grad_cam.jpg> <./figs/100_grad_cam.jpg> <./figs/100
+_label.jpg>]
+
+pdfTeX warning: pdflatex.exe (file ./figs/framework.pdf): PDF inclusion: found 
+PDF version <1.7>, but at most version <1.5> allowed
+<./figs/framework.pdf, id=22, 585.68813pt x 237.13594pt>
+File: ./figs/framework.pdf Graphic file (type pdf)
+<use ./figs/framework.pdf>
+Package pdftex.def Info: ./figs/framework.pdf  used on input line 91.
+(pdftex.def)             Requested size: 516.0pt x 208.94078pt.
+
+Package xcolor Warning: Incompatible color definition on input line 92.
+
+
+Package xcolor Warning: Incompatible color definition on input line 92.
+
+
+Package xcolor Warning: Incompatible color definition on input line 92.
+
+
+Package xcolor Warning: Incompatible color definition on input line 92.
+
+
+Package xcolor Warning: Incompatible color definition on input line 96.
+
+
+Package xcolor Warning: Incompatible color definition on input line 98.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 98.
+
+Package xcolor Warning: Incompatible color definition on input line 104.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [2]
+
+Package xcolor Warning: Incompatible color definition on input line 107.
+
+
+Package xcolor Warning: Incompatible color definition on input line 112.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./figs/wce.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<./figs/wce.pdf, id=26, 694.09312pt x 172.39406pt>
+File: ./figs/wce.pdf Graphic file (type pdf)
+<use ./figs/wce.pdf>
+Package pdftex.def Info: ./figs/wce.pdf  used on input line 118.
+(pdftex.def)             Requested size: 516.0pt x 128.1641pt.
+
+Package xcolor Warning: Incompatible color definition on input line 120.
+
+
+Package xcolor Warning: Incompatible color definition on input line 120.
+
+
+Package xcolor Warning: Incompatible color definition on input line 120.
+
+
+Package xcolor Warning: Incompatible color definition on input line 120.
+
+
+Package xcolor Warning: Incompatible color definition on input line 123.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 140.
+
+Package xcolor Warning: Incompatible color definition on input line 140.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [3 <./figs/framework.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 177.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./figs/enhance_examples.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<./figs/enhance_examples.pdf, id=80, 4270.7053pt x 4551.50438pt>
+File: ./figs/enhance_examples.pdf Graphic file (type pdf)
+<use ./figs/enhance_examples.pdf>
+Package pdftex.def Info: ./figs/enhance_examples.pdf  used on input line 198.
+(pdftex.def)             Requested size: 252.0pt x 268.56421pt.
+
+Package xcolor Warning: Incompatible color definition on input line 199.
+
+
+Package xcolor Warning: Incompatible color definition on input line 199.
+
+
+Package xcolor Warning: Incompatible color definition on input line 199.
+
+
+Package xcolor Warning: Incompatible color definition on input line 199.
+
+<./figs/healthiness.png, id=81, 462.528pt x 346.896pt>
+File: ./figs/healthiness.png Graphic file (type png)
+<use ./figs/healthiness.png>
+Package pdftex.def Info: ./figs/healthiness.png  used on input line 205.
+(pdftex.def)             Requested size: 129.0pt x 96.7491pt.
+<./figs/hm_o.png, id=83, 462.528pt x 346.896pt>
+File: ./figs/hm_o.png Graphic file (type png)
+<use ./figs/hm_o.png>
+Package pdftex.def Info: ./figs/hm_o.png  used on input line 205.
+(pdftex.def)             Requested size: 129.0pt x 96.7491pt.
+<./figs/hm.png, id=84, 462.528pt x 346.896pt>
+File: ./figs/hm.png Graphic file (type png)
+<use ./figs/hm.png>
+Package pdftex.def Info: ./figs/hm.png  used on input line 205.
+(pdftex.def)             Requested size: 129.0pt x 96.7491pt.
+<./figs/hm3.png, id=85, 462.528pt x 346.896pt>
+File: ./figs/hm3.png Graphic file (type png)
+<use ./figs/hm3.png>
+Package pdftex.def Info: ./figs/hm3.png  used on input line 205.
+(pdftex.def)             Requested size: 129.0pt x 96.7491pt.
+
+Package xcolor Warning: Incompatible color definition on input line 206.
+
+
+Package xcolor Warning: Incompatible color definition on input line 206.
+
+
+Package xcolor Warning: Incompatible color definition on input line 206.
+
+
+Package xcolor Warning: Incompatible color definition on input line 206.
+
+
+Package xcolor Warning: Incompatible color definition on input line 209.
+
+
+Package xcolor Warning: Incompatible color definition on input line 212.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [4 <./figs/wce.pdf> <./figs/enhance_examples.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figs/enhance_examples.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+
+Package xcolor Warning: Incompatible color definition on input line 236.
+
+<./figs/82_img1.jpg, id=148, 240.9pt x 240.9pt>
+File: ./figs/82_img1.jpg Graphic file (type jpg)
+<use ./figs/82_img1.jpg>
+Package pdftex.def Info: ./figs/82_img1.jpg  used on input line 254.
+(pdftex.def)             Requested size: 63.0pt x 63.00009pt.
+<./figs/22_img1.jpg, id=149, 240.9pt x 240.9pt>
+File: ./figs/22_img1.jpg Graphic file (type jpg)
+<use ./figs/22_img1.jpg>
+Package pdftex.def Info: ./figs/22_img1.jpg  used on input line 254.
+(pdftex.def)             Requested size: 63.0pt x 63.00009pt.
+<./figs/82_img2.jpg, id=150, 240.9pt x 240.9pt>
+File: ./figs/82_img2.jpg Graphic file (type jpg)
+<use ./figs/82_img2.jpg>
+Package pdftex.def Info: ./figs/82_img2.jpg  used on input line 254.
+(pdftex.def)             Requested size: 63.0pt x 63.00009pt.
+<./figs/22_img2.jpg, id=151, 240.9pt x 240.9pt>
+File: ./figs/22_img2.jpg Graphic file (type jpg)
+<use ./figs/22_img2.jpg>
+Package pdftex.def Info: ./figs/22_img2.jpg  used on input line 254.
+(pdftex.def)             Requested size: 63.0pt x 63.00009pt.
+<./figs/82_pred2.jpg, id=152, 240.9pt x 240.9pt>
+File: ./figs/82_pred2.jpg Graphic file (type jpg)
+<use ./figs/82_pred2.jpg>
+Package pdftex.def Info: ./figs/82_pred2.jpg  used on input line 254.
+(pdftex.def)             Requested size: 63.0pt x 63.00009pt.
+<./figs/22_pred2.jpg, id=153, 240.9pt x 240.9pt>
+File: ./figs/22_pred2.jpg Graphic file (type jpg)
+<use ./figs/22_pred2.jpg>
+Package pdftex.def Info: ./figs/22_pred2.jpg  used on input line 254.
+(pdftex.def)             Requested size: 63.0pt x 63.00009pt.
+<./figs/82_label.jpg, id=154, 240.9pt x 240.9pt>
+File: ./figs/82_label.jpg Graphic file (type jpg)
+<use ./figs/82_label.jpg>
+Package pdftex.def Info: ./figs/82_label.jpg  used on input line 254.
+(pdftex.def)             Requested size: 63.0pt x 63.00009pt.
+<./figs/22_label.jpg, id=155, 240.9pt x 240.9pt>
+File: ./figs/22_label.jpg Graphic file (type jpg)
+<use ./figs/22_label.jpg>
+Package pdftex.def Info: ./figs/22_label.jpg  used on input line 254.
+(pdftex.def)             Requested size: 63.0pt x 63.00009pt.
+
+Package xcolor Warning: Incompatible color definition on input line 255.
+
+
+Package xcolor Warning: Incompatible color definition on input line 255.
+
+
+Package xcolor Warning: Incompatible color definition on input line 255.
+
+
+Package xcolor Warning: Incompatible color definition on input line 255.
+
+
+Package xcolor Warning: Incompatible color definition on input line 259.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [5 <./figs/healthiness.png> <./figs/hm_o.png> <./figs/hm.png> <./figs/hm3.png>
+ <./figs/82_img1.jpg> <./figs/22_img1.jpg> <./figs/82_img2.jpg> <./figs/22_img2
+.jpg> <./figs/82_pred2.jpg> <./figs/22_pred2.jpg> <./figs/82_label.jpg> <./figs
+/22_label.jpg>]
+
+Package xcolor Warning: Incompatible color definition on input line 270.
+
+
+Package xcolor Warning: Incompatible color definition on input line 271.
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 272--273
+[]\OT1/ptm/m/n/10 We val-i-date our method on two widely-used pub-lic
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 278.
+
+
+Package xcolor Warning: Incompatible color definition on input line 281.
+
+
+Package xcolor Warning: Incompatible color definition on input line 291.
+
+
+Package xcolor Warning: Incompatible color definition on input line 293.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [6]
+
+pdfTeX warning: pdflatex.exe (file ./figs/results.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<./figs/results.pdf, id=166, 569.12625pt x 1433.355pt>
+File: ./figs/results.pdf Graphic file (type pdf)
+<use ./figs/results.pdf>
+Package pdftex.def Info: ./figs/results.pdf  used on input line 302.
+(pdftex.def)             Requested size: 252.0pt x 634.68059pt.
+
+Package xcolor Warning: Incompatible color definition on input line 303.
+
+
+Package xcolor Warning: Incompatible color definition on input line 303.
+
+
+Package xcolor Warning: Incompatible color definition on input line 303.
+
+
+Package xcolor Warning: Incompatible color definition on input line 303.
+
+
+LaTeX Warning: Float too large for page by 4.68059pt on input line 305.
+
+<./figs/Fig20.png, id=167, 462.528pt x 346.896pt>
+File: ./figs/Fig20.png Graphic file (type png)
+<use ./figs/Fig20.png>
+Package pdftex.def Info: ./figs/Fig20.png  used on input line 309.
+(pdftex.def)             Requested size: 129.0pt x 96.7491pt.
+<./figs/enhancement_diff_datasize.png, id=168, 462.528pt x 346.896pt>
+File: ./figs/enhancement_diff_datasize.png Graphic file (type png)
+<use ./figs/enhancement_diff_datasize.png>
+Package pdftex.def Info: ./figs/enhancement_diff_datasize.png  used on input li
+ne 309.
+(pdftex.def)             Requested size: 129.0pt x 96.7491pt.
+<./figs/compatibility.png, id=169, 462.528pt x 346.896pt>
+File: ./figs/compatibility.png Graphic file (type png)
+<use ./figs/compatibility.png>
+Package pdftex.def Info: ./figs/compatibility.png  used on input line 309.
+(pdftex.def)             Requested size: 129.0pt x 96.7491pt.
+<./figs/sensitivity.png, id=170, 462.528pt x 346.896pt>
+File: ./figs/sensitivity.png Graphic file (type png)
+<use ./figs/sensitivity.png>
+Package pdftex.def Info: ./figs/sensitivity.png  used on input line 309.
+(pdftex.def)             Requested size: 129.0pt x 96.7491pt.
+
+Package xcolor Warning: Incompatible color definition on input line 310.
+
+
+Package xcolor Warning: Incompatible color definition on input line 310.
+
+
+Package xcolor Warning: Incompatible color definition on input line 310.
+
+
+Package xcolor Warning: Incompatible color definition on input line 310.
+
+
+Package xcolor Warning: Incompatible color definition on input line 314.
+
+
+Package xcolor Warning: Incompatible color definition on input line 320.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [7 <./figs/results.pdf>]
+\width=\dimen194
+
+
+Package xcolor Warning: Incompatible color definition on input line 324.
+
+
+Package xcolor Warning: Incompatible color definition on input line 324.
+
+
+Package xcolor Warning: Incompatible color definition on input line 324.
+
+
+Package xcolor Warning: Incompatible color definition on input line 324.
+
+
+Underfull \vbox (badness 1163) has occurred while \output is active []
+
+\width=\dimen195
+
+
+Package xcolor Warning: Incompatible color definition on input line 348.
+
+
+Package xcolor Warning: Incompatible color definition on input line 348.
+
+
+Package xcolor Warning: Incompatible color definition on input line 348.
+
+
+Package xcolor Warning: Incompatible color definition on input line 348.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./figs/enhanced.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<./figs/enhanced.pdf, id=242, 979.40906pt x 487.8225pt>
+File: ./figs/enhanced.pdf Graphic file (type pdf)
+<use ./figs/enhanced.pdf>
+Package pdftex.def Info: ./figs/enhanced.pdf  used on input line 364.
+(pdftex.def)             Requested size: 516.0pt x 257.0113pt.
+
+Package xcolor Warning: Incompatible color definition on input line 365.
+
+
+Package xcolor Warning: Incompatible color definition on input line 365.
+
+
+Package xcolor Warning: Incompatible color definition on input line 365.
+
+
+Package xcolor Warning: Incompatible color definition on input line 365.
+
+\width=\dimen196
+
+Package xcolor Warning: Incompatible color definition on input line 372.
+
+
+Package xcolor Warning: Incompatible color definition on input line 372.
+
+
+Package xcolor Warning: Incompatible color definition on input line 372.
+
+
+Package xcolor Warning: Incompatible color definition on input line 372.
+
+
+Package xcolor Warning: Incompatible color definition on input line 390.
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 393--394
+[]\OT1/ptm/m/n/10 Next, we fur-ther test and ver-ify the ef-fec-tive-ness of
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 394.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [8 <./figs/Fig20.png> <./figs/enhancement_diff_datasize.png> <./figs/compatibi
+lity.png> <./figs/sensitivity.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 398.
+
+
+Package xcolor Warning: Incompatible color definition on input line 406.
+
+
+Package xcolor Warning: Incompatible color definition on input line 408.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [9 <./figs/enhanced.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figs/result2.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<./figs/result2.pdf, id=298, 455.45157pt x 492.33937pt>
+File: ./figs/result2.pdf Graphic file (type pdf)
+<use ./figs/result2.pdf>
+Package pdftex.def Info: ./figs/result2.pdf  used on input line 412.
+(pdftex.def)             Requested size: 252.0pt x 272.41017pt.
+
+Package xcolor Warning: Incompatible color definition on input line 413.
+
+
+Package xcolor Warning: Incompatible color definition on input line 413.
+
+
+Package xcolor Warning: Incompatible color definition on input line 413.
+
+
+Package xcolor Warning: Incompatible color definition on input line 413.
+
+
+Package xcolor Warning: Incompatible color definition on input line 417.
+
+
+Package xcolor Warning: Incompatible color definition on input line 423.
+
+
+Package xcolor Warning: Incompatible color definition on input line 437.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [10 <./figs/result2.pdf>] (tmi.bbl
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 149--152
+[]\OT1/ptm/m/n/8 C. Baur, R. Graf, B. Wiestler, S. Al-bar-qouni, and N. Navab,
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 149--152
+\OT1/ptm/m/n/8 ``Steganomaly: In-hibit-ing cy-cle-gan steganog-ra-phy for un-su
+-per-vised
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 258.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [11])
+
+Package xcolor Warning: Incompatible color definition on input line 441.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [12
+
+]
+(tmi.aux) ) 
+Here is how much of TeX's memory you used:
+ 6897 strings out of 479697
+ 108604 string characters out of 2868082
+ 407502 words of memory out of 3000000
+ 23812 multiletter control sequences out of 15000+200000
+ 464663 words of font info for 127 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,20n,72p,1698b,469s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.
+enc}<C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb><C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi6.pfb><C:/Users/xxx/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/xxx/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/xxx/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/xxx/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/xxx/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/xxx/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/xx
+x/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+<C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb
+><C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.p
+fb><C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.
+pfb><C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8
+a.pfb><C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.
+pfb><C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pf
+b><C:/Users/xxx/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on tmi.pdf (12 pages, 1716537 bytes).
+PDF statistics:
+ 390 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+

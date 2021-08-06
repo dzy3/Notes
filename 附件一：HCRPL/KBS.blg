@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: KBS.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+The style file: cas-model2-names.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: KBS.bib
+Repeated entry---line 460 of file KBS.bib
+ : @article{pan2010domain
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 718 of file KBS.bib
+ : @inproceedings{sun2016return
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 828 of file KBS.bib
+ : @article{pan2010domain
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 879 of file KBS.bib
+ : @article{Wu2020GeometricKE
+ :                           ,
+I'm skipping whatever remains of this entry
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--empty pages in chen2021I3NET
+Warning--empty pages in Donahue2014DeCAFAD
+Warning--empty pages in DBLP:conf/iclr/FrenchMF18
+Warning--empty pages in Kim2020AttractPA
+Warning--empty pages in laine2016temporal
+Warning--empty pages in long2017deep
+Warning--empty pages in SanjayVariational
+Warning--empty pages in saenko2010adapting
+Warning--empty pages in saito2017adversarial
+Warning--empty pages in simonyan2014very
+Warning--empty pages in sun2016return
+Warning--empty pages in DBLP:journals/corr/SzegedyZSBEGF13
+Warning--empty pages in DBLP:conf/iclr/TarvainenV17
+Warning--empty pages in Yan2018SemiSupervisedOT
+Warning--empty pages in zhang2016understanding
+Warning--empty pages in zhang2019bridging
+You've used 76 entries,
+            2990 wiz_defined-function locations,
+            1137 strings with 21330 characters,
+and the built_in function-call counts, 60421 in all, are:
+= -- 4548
+> -- 2873
+< -- 43
++ -- 1108
+- -- 1015
+* -- 6755
+:= -- 8616
+add.period$ -- 183
+call.type$ -- 76
+change.case$ -- 728
+chr.to.int$ -- 65
+cite$ -- 92
+duplicate$ -- 4386
+empty$ -- 4090
+format.name$ -- 1273
+if$ -- 11447
+int.to.chr$ -- 12
+int.to.str$ -- 1
+missing$ -- 850
+newline$ -- 350
+num.names$ -- 320
+pop$ -- 1713
+preamble$ -- 1
+purify$ -- 636
+quote$ -- 0
+skip$ -- 1484
+stack$ -- 0
+substring$ -- 2317
+swap$ -- 3343
+text.length$ -- 30
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 684
+warning$ -- 16
+while$ -- 347
+width$ -- 0
+write$ -- 1019
+(There were 4 error messages)

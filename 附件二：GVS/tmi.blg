@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tmi.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: GVS.bib
+Repeated entry---line 361 of file GVS.bib
+ : @article{ganin2016domain
+ :                         ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in pawlowski2018unsupervised
+Warning--empty journal in eaton2018improving
+
+Done.
+You've used 45 entries,
+            4087 wiz_defined-function locations,
+            1051 strings with 18070 characters,
+and the built_in function-call counts, 32585 in all, are:
+= -- 2540
+> -- 885
+< -- 227
++ -- 476
+- -- 166
+* -- 1519
+:= -- 4766
+add.period$ -- 100
+call.type$ -- 45
+change.case$ -- 45
+chr.to.int$ -- 558
+cite$ -- 47
+duplicate$ -- 2427
+empty$ -- 2734
+format.name$ -- 211
+if$ -- 7652
+int.to.chr$ -- 0
+int.to.str$ -- 45
+missing$ -- 420
+newline$ -- 158
+num.names$ -- 45
+pop$ -- 957
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2623
+stack$ -- 0
+substring$ -- 1397
+swap$ -- 1843
+text.length$ -- 41
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 45
+warning$ -- 2
+while$ -- 135
+width$ -- 47
+write$ -- 421
+(There was 1 error message)
